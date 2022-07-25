@@ -1,0 +1,278 @@
+Write me a poem for a given summary taking into account the claim and the label 
+
+Claim:  White House, CDC, WHO and vaccine makers don’t require the COVID-19 vaccine for their workers.  
+Label: barely-true 
+Summary Explanation: 
+ The COVID-19 vaccine has been mandated for all federal workers in the United States, including the White House, CDC and FDA. Makers of the three COVID-19 vaccines used in the U.S. have also required their employees to get vaccinated.
+Those who choose not to get the vaccine at any of the organizations must undergo regular testing for the virus.
+The World Health Organization does not currently support vaccine mandates, advocating instead for information campaigns and vaccine accessibility.
+ 
+Poem: 
+ White House, CDC and FDA equals vaccination.
+Those who don’t care for vaccines, must care for testing.
+The WHO proclaims action,
+Hence, the campaigns and accessibility they are investing.  
+
+
+Claim:  OSHA says masks don t work to reduce COVID-19 transmission and violate OSHA oxygen levels.  
+Label: false 
+Summary Explanation: 
+ OSHA recommends that masks be worn to help slow the spread of COVID-19.
+Masks aren’t a cure to prevent spread of COVID-19, experts say. But they are an effective tool in slowing transmission.
+ 
+Poem: 
+ OSHA doesn't know
+About the masked people oxygen levels,
+But if it is certain of anything
+It's how to fight these respiratory virus devils.
+
+OSHA has confirmed: masks may slow it, 
+But they alone won't cease the COVID-19 transmission!
+To stop you from infecting your loved ones,
+That's the masks real mission. 
+
+
+Claim:  Map shows states where all of the children… are back to living mask-free, normal lives.  
+Label: barely-true 
+Summary Explanation: 
+  Though the majority of states do not have statewide school mask mandates, individual school districts still have mandates. 
+ The absence of state mask rules has not meant a full return to pre-pandemic “normal” at school in most places.
+ 
+Poem: 
+ We all want the same,
+to go back to normality,
+but like this claim,
+that's still not the reality.
+
+The majority of states,
+do not have statewide 
+school mask mandates.
+However, 
+individual school districts abide
+since they still have mandates.
+
+If mask rules evaporated,
+that doesn't mean
+normality would be stated
+in most schools scene. 
+
+
+Claim:  Research illustrates a clear correlation between vitamin D deficiencies and (higher) COVID-19 mortality rates.  
+Label: true 
+Summary Explanation: 
+ U.S. Rep. Glenn Grothman touted a correlation between vitamin D deficiencies and COVID-19 deaths, suggesting the supplement may help combat the virus.
+Early research verifies that correlation, but more work needs to be done.
+Grothman emphasized that point and didn’t imply vitamin D is a cure for COVID-19.
+ 
+Poem: 
+ From the moment we are born
+Our doctors and mothers say
+You should eat fruits and vegetables 
+Including oranges
+
+There is a clear correlation 
+Between COVID deaths 
+And lack of proper D vitamination
+Along with more tests 
+
+
+Claim:  Vitamin D, vitamin C, colloidal silver and black seed oil can kill the coronavirus.  
+Label: false 
+Summary Explanation: 
+ While research has been mixed on the benefits of some supplements in treating or preventing COVID-19, there is no scientific evidence to support the claim that they can kill the coronavirus.
+ 
+Poem: 
+ A recipe was made,
+Vitamin C,
+Colloidal silver sprayed,
+Vitamin D,
+Black seed oil weighed,
+Mix it free,
+and the Coronavirus is slayed.
+
+But,
+Like potions from witchcraft,
+there's no evidence of their results.
+Scientist don't support this art,
+this is straight out of cults. 
+
+
+Claim:  Dr. Fauci: No reason to be wearing a mask.  
+Label: barely-true 
+Summary Explanation: 
+ An old video of Dr. Anthony Fauci saying that people don’t need to wear face masks was taken out of context.
+Since April, the CDC has recommended face coverings to prevent the spread of COVID-19, and Fauci has pushed for their use as well.
+ 
+Poem: 
+ A recent video displays the acclaimed doctor Fauci
+Speaking against masks, stating
+"No reason to be wearing mask"
+But taking things out of context is frustating
+
+The mentioned video was from 4 months ago
+When the pandemic wasn't such a deathblow
+Since then masks are advisable
+Therefore the label of barely-true is assignable. 
+
+
+Claim:  It makes no sense to require vaccinations for the previously infected.  
+Label: false 
+Summary Explanation: 
+ People who have had COVID-19 do have some level of immunity; however, the CDC recommends vaccination because it provides better protection.
+Naturally acquired immunity may not be as effective against variant strains of the virus that cause COVID-19.
+ 
+Poem: 
+ "if you had it, you don't need the vaccine",
+people say. But the CDC, still protective,
+states natural immunity is not that effective
+against other strains that cause COVID-19 
+
+
+Claim:  In West Virginia alone, overdoses have increased 50% during the #COVID-19 pandemic.  
+Label: mostly-true 
+Summary Explanation: 
+  West Virginia has seen an overdose spike during the pandemic.
+ For the period from April through June, responses by emergency medical services for suspected overdoses rose 33% compared to the same period a year earlier. But for May and June alone, the number rose 47%, which is close to the 50% Miller cited.
+ 
+Poem: 
+ An hyperbole was used to emphasize a point for effect,
+According to Miss Miller
+West Virginia people are overdosing
+Now more than ever.
+
+Might not be 100% true, but it was a good attention call
+For the social strike
+That is COVID causing
+A WV pandemic overdose spike! 
+
+
+Claim:  COVID-19 surges among most vaxxed communities, says Harvard study.  
+Label: half-true 
+Summary Explanation: 
+ A study led by a Harvard researcher found high rates of infection in communities with high rates of vaccination.
+It concluded that prevention measures such as handwashing, safe distancing and testing should be employed along with vaccinations to fight the epidemic.
+ 
+Poem: 
+ If COVID-19 knocks on your door,
+vaccines will open it wide.
+But once it comes inside,
+With it they'll wipe the floor.
+
+Even if you are vaccinated,
+you can get infected.
+Handwashing shouldn't be neglected
+and safe distancing calculated. 
+
+
+Claim:  Says Sen. Thom Tillis doesn’t think restaurant workers should have to wash their hands.  
+Label: false 
+Summary Explanation: 
+ A new television ad by Majority Forward PAC says U.S. Sen. Thom Tillis (R-NC) “doesn’t think restaurant workers should have to wash their hands.”
+The ad doesn't provide context for the comments, which Tillis made in 2015.
+Tillis was making a point about regulations, not offering his opinion on whether workers should wash their hands.
+ 
+Poem: 
+ A simple twist of words
+Not something we should look towards
+Warps the intentions
+With no consistent mentions
+
+Tillis gave his toughts
+without any knots
+He would be fine in the morning
+wit at least a proper warning 
+
+
+Claim:  There s over a trillion dollars of money unspent from previous (coronavirus) relief bills ... still sitting in a bank account.  
+Label: half-true 
+Summary Explanation: 
+ About $1 trillion remains to be disbursed, but a large share of it has been allocated or is scheduled to be spent.
+Most of the unspent money was approved in late December, and it takes time to distribute it.
+As the economy recovers, some of the money might not be spent.
+ 
+Poem: 
+ You know a trillion dollars is a lot of money.
+So you wouln't expect it to be used in such a hurry.
+So don't worry, there is a plan of distribution,
+And maybe saving it for another time would be the greatest contribution. 
+
+
+Claim:  You are 17 times more likely to go to the hospital if you’re not vaccinated, 20 times more likely to die.  
+Label: true 
+Summary Explanation: 
+ October data from the Centers for Disease Control and Prevention suggests unvaccinated people are 20 times more likely to die of COVID-19 than those who are vaccinated and boosted.
+Researchers in Texas reached the same conclusion looking at September data.
+CDC data from November also indicated that unvaccinated people were about 17 times more likely to be hospitalized due to COVID-19 than those who are vaccinated.
+Data from the omicron variant-fueled surge in December and January is preliminary and incomplete but early reports from New York City and Seattle suggest a continued and significant gap in the experiences between vaccinated and unvaccinated who become infected.
+ 
+Poem: 
+ Covid doesn't choose,
+friend or foe,
+it makes you loose,
+from head to toe.
+
+Vaccinated not yet?
+If covid you get,
+17 times more likely a hospital you'll met,
+and 20 times closer you are to death. 
+
+
+Claim:  Mask mandates on children lead to learning loss that harms early childhood development.  
+Label: barely-true 
+Summary Explanation: 
+ Public health officials pointed out the article cited as support was “not a study but an opinion paper.”
+According to the U.S. Centers for Disease Control and Prevention, limited available data indicates “no clear evidence that masking impairs emotional or language development in children.”
+ 
+Poem: 
+ Yes, children are sick of masks, as we all are,
+but it doesn't mean they learn better without them.
+Maybe next time before you cause such mayhem,
+check if any study supports what you stated so far. 
+
+
+Claim: Ethnic Russians face “genocide perpetrated by the Kyiv regime.” 
+Label: false 
+Summary Explanation: 
+ Despite multiple claims of a Ukrainian genocide against ethnic Russians, there is no evidence to support it.
+International bodies that include Russian representatives report that civilian deaths have plummeted since 2014.
+Russia’s ambassador to the U.S. relied on misleading and outdated evidence to back the claim. 
+Poem: 
+ No evidence, no case,
+Claims are made to incriminate.
+Russia’s Ambassador was mislead, 
+Those reports weren’t going to succeed.
+Since 2014 deaths decreased,
+There’s no genocide,
+Russia just lied. 
+
+
+Claim:  Says spending Democrats is driving major jumps in car rentals, gas prices and hotel prices this summer  
+Label: barely-true 
+Summary Explanation: 
+ Inflation has gone up since the start of the coronavirus pandemic -- about 5% between May 2020 and May 2021
+But the jump in inflation doesn’t account for the rapidly increasing prices for travel
+In fact, everyday consumers are driving prices higher as more and more people book trips
+ 
+Poem: 
+ Blaming the Democrats for inflation is a low blow
+when inflation started alongside the pandemic, about two years ago
+Maybe Tiffany doesn´t know what supply and demand means
+because the more people travel, the bigger the price it seems. 
+
+
+Claim:  The (Erie Co., N.Y.) health commissioner makes more than the governor, the vice president of the United States, and has a salary that is comparable to Dr. Anthony Fauci.  
+Label: mostly-true 
+Summary Explanation: 
+ Dr. Gale Burstein’s compensation, when factoring in fringe benefits, reached $532,418 in 2020 due to a special overtime rule enacted during the coronavirus pandemic.
+Burstein’s combination of salary, benefits, and overtime in 2020 exceeded the easily classifiable compensation for Pence, Fauci and Gov. Cuomo.
+However, Cuomo and Pence receive housing, transportation, and security benefits that are large but hard to quantify, and if these benefits are added into the calculation, they likely exceed what Burstein received.
+ 
+Poem: 
+
+ Dr. Gale Burstein's compensation last year
+surpassed the veep, the governor, and even Dr. Fauci.
+However, if we factor in the benefits they receive,
+It's likely their compensation would exceed. 
+
+So while it's true that Burstein's salary is high,
+It's not as high as you might think when you factor in everything else.

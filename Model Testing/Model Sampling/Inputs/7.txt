@@ -1,0 +1,141 @@
+Write me a poem for a given summary taking into account the claim and the label 
+
+Claim: Bill Gates hatches 'horribly stupid' plan to block out the sun 
+Label: false 
+Summary Explanation: 
+ Harvard researchers proposed a small-scale experiment that would spray aerosols into the atmosphere to reflect some sunlight back into space, a technology aimed at minimizing global warming. The experiment would measure the risks and effectiveness of the technology.
+The experiment is funded in part through Harvard’s Solar Geoengineering Research Program, and Bill Gates is among the donors to that program.
+The claim first surfaced in 2021 and has been previously debunked. 
+Poem: 
+ yeah is hot,
+glaciers are no longer in stock,
+Bill Gates a solution tried to find,
+but block only works on intagram, bear this in mind.
+
+Now, the true story,
+Bill, you don´t deserver the glory!
+Havard was the one, the original author
+You only gave them money and they took the offer. 
+
+
+Claim: Ethnic Russians face “genocide perpetrated by the Kyiv regime.” 
+Label: false 
+Summary Explanation: 
+ Despite multiple claims of a Ukrainian genocide against ethnic Russians, there is no evidence to support it.
+International bodies that include Russian representatives report that civilian deaths have plummeted since 2014.
+Russia’s ambassador to the U.S. relied on misleading and outdated evidence to back the claim. 
+Poem: 
+ No evidence, no case,
+Claims are made to incriminate.
+Russia’s Ambassador was mislead, 
+Those reports weren’t going to succeed.
+Since 2014 deaths decreased,
+There’s no genocide,
+Russia just lied. 
+
+
+Claim: Russia has never attacked anyone throughout its history. 
+Label: pants-fire 
+Summary Explanation: 
+ Historians cite upwards of a dozen examples dating back to the 1500s in which Russia or the Soviet Union attacked another country without being militarily attacked first. 
+Russia may offer various justifications for why it attacked another country in these instances, but each of these examples involved militarily unprovoked actions by Russia or the Soviet Union.  
+Poem: 
+ Soviet Union or Russia,
+the tale is old as time. 
+Historians carry examples,
+Russians justifications
+But all we see is crime.
+Justifications filled with temptations, 
+military attacks cause obliterations. 
+
+
+Claim: Says Joe Biden risks war with Russia because Vladimir Putin doesn’t “believe in transgender rights." 
+Label: pants-fire 
+Summary Explanation: 
+ Ohio Senate candidate JD Vance said the State Department’s focus on transgender rights is inflaming the conflict with Russia in Ukraine.
+Russia has placed as many as 150,000 troops near Ukraine’s borders.
+Russia has said Ukraine’s ties to NATO are a key threat to Russia’s national security. 
+Poem: 
+ Nato is a threat for Putin, 
+almost as transgenders are for JD Vance.
+150,000 troops near the borders?
+it’s fair to assume one in charge has a disorder.
+Transgender or cisgender,
+doesn’t define an offender. 
+Biden claims Ukraine’s safety,
+Putin’s heart only knows obscurity. 
+
+
+Claim:  Map shows states where all of the children… are back to living mask-free, normal lives.  
+Label: barely-true 
+Summary Explanation: 
+  Though the majority of states do not have statewide school mask mandates, individual school districts still have mandates. 
+ The absence of state mask rules has not meant a full return to pre-pandemic “normal” at school in most places.
+ 
+Poem: 
+ We all want the same,
+to go back to normality,
+but like this claim,
+that's still not the reality.
+
+The majority of states,
+do not have statewide 
+school mask mandates.
+However, 
+individual school districts abide
+since they still have mandates.
+
+If mask rules evaporated,
+that doesn't mean
+normality would be stated
+in most schools scene. 
+
+
+Claim: Ukraine was the No. 1 donor to Hillary Clinton when she was running for president.
+ 
+Label: false 
+Summary Explanation: 
+ Hillary Clinton’s 2016 presidential campaign did not report receiving any donations from the Ukrainian government or Ukrainian nationals. Those donations would have been illegal.
+A spokesperson for Marjorie Taylor Greene cited a 2015 Wall Street Journal graphic that has been frequently misrepresented online. The chart shows donations to the Clinton Foundation between 1999 and 2014 by the nationality of the individuals who made them; it does not say anything about donations to the foundation by foreign governments. 
+The Clinton Foundation said it has never received donations from Ukraine’s government. 
+Poem: 
+ In 2016, Hillary ran for president,
+No reports of donations from Ukraine were evident.
+Those donations would’ve been illegal,
+Truthful reports would’ve been a miracle.
+Graphics misrepresented,
+Can affect one’s reputation,
+Clinton Foundation received individual donations
+Never from Ukraine’s government,
+That was an incident. 
+
+
+Claim:  The second booster has eight strains of HIV.  
+Label: pants-fire 
+Summary Explanation: 
+  The ingredients of COVID-19 vaccines are published and do not include HIV.
+ The vaccine ingredients do not change between doses. Each shot in the mRNA COVID-19 vaccine series, including the booster, has the same ingredients. 
+ 
+Poem: 
+ Every food has recipes,
+precious holy grails,
+Vaccines fight enemies,
+who run off with their tails.
+
+You don't change instructions,
+just because the dose is new.
+We already made the introductions,
+why would HIV be in queue? 
+
+
+Claim:  Says President Donald Trump started a trade war that led to a surge in farm bankruptcies.  
+Label: half-true 
+Summary Explanation: 
+ Farmers were particularly hard hit by retaliatory tariffs imposed on the U.S. after Trump slapped tariffs on China, Canada, Mexico and other countries in 2018 and 2019.
+Family farm bankruptcies rose from 498 in 2018 to 595 in 2019.
+But farm bankruptcies have been rising each year since 2014.
+And experts say the trade wars were just one factor driving the increase, along with low commodity prices and natural disasters.
+ 
+Poem: 
+  
+
