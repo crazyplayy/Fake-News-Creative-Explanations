@@ -1,0 +1,115 @@
+
+822
+Claim:  North Carolina is in the small minority of states that requires an absentee ballot to be signed two witnesses or a notary public.  
+Label: true 
+Source: https://www.politifact.com/factchecks/2020/apr/23/jay-chaudhuri/nc-absentee-ballots-require-2-witnesses-unique/ 
+ 
+Summary Explanation: 
+ Jay Chaudhuri and Natasha Marcus, North Carolina state Senators, want to make it easier for people to vote absentee by mail.
+In an op-ed, they claim that NC is in the "small minority" of states that require two witnesses to sign an absentee ballot.
+That's true. NC is one of only three states that require the ballots to be signed by two witnesses if a notary isn't available.
+ 
+Poem: 
+Nobody likes
+The COVID pandemic.
+To know that you don't have to be
+A brilliant academic.
+
+But it's hard to not get infected with
+The COVID pandemic
+When you can't absentee vote
+Because the process is very bureaucratic.
+
+Two of the NC senators
+Want to make it easier
+"Let's vote like almost every other state!", they say
+So the process can be breezier.
+
+ --------------------- 
+
+686
+Claim:  OSHA says masks don t work to reduce COVID-19 transmission and violate OSHA oxygen levels.  
+Label: false 
+Source: https://www.politifact.com/factchecks/2020/jun/25/facebook-posts/no-osha-does-not-say-masks-dont-work-against-covid/ 
+ 
+Summary Explanation: 
+ OSHA recommends that masks be worn to help slow the spread of COVID-19.
+Masks aren’t a cure to prevent spread of COVID-19, experts say. But they are an effective tool in slowing transmission.
+ 
+Poem: 
+OSHA doesn't know
+About the masked people oxygen levels,
+But if it is certain of anything
+It's how to fight these respiratory virus devils.
+
+OSHA has confirmed: masks may slow it, 
+But they alone won't cease the COVID-19 transmission!
+To stop you from infecting your loved ones,
+That's the masks real mission.
+ --------------------- 
+
+611
+Claim:  In West Virginia alone, overdoses have increased 50% during the #COVID-19 pandemic.  
+Label: mostly-true 
+Source: https://www.politifact.com/factchecks/2020/aug/19/carol-miller/have-overdoses-wva-increased-50-during-pandemic/ 
+ 
+Summary Explanation: 
+  West Virginia has seen an overdose spike during the pandemic.
+ For the period from April through June, responses by emergency medical services for suspected overdoses rose 33% compared to the same period a year earlier. But for May and June alone, the number rose 47%, which is close to the 50% Miller cited.
+ 
+Poem: 
+An hyperbole was used to emphasize a point for effect,
+According to Miss Miller
+West Virginia people are overdosing
+Now more than ever.
+
+Might not be 100% true, but it was a good attention call
+For the social strike
+That is COVID causing
+A WV pandemic overdose spike!
+ --------------------- 
+
+761
+Claim:  Gates Foundation stands to make nearly £31.5 billion on a coronavirus vaccine in U.K.  
+Label: false 
+Source: https://www.politifact.com/factchecks/2020/may/14/facebook-posts/no-evidence-gates-foundation-will-profit-coronavir/ 
+ 
+Summary Explanation: 
+ The £31.5 billion figure was calculated by multiplying an estimated cost per vaccine times the population of the United Kingdom. The estimated vaccine cost comes from a Daily Mail story, but we could find no other evidence to back it up.
+The Gates Foundation has pledged millions of dollars to companies developing potential coronavirus vaccines. There is no evidence that the charity stands to profit from them.
+The source of the Facebook post is a website that has published false conspiracy theories in the past.
+ 
+Poem:
+A lot of people have
+Shady and nasty hidden agendas.
+Getting your facts and info on false conspiracies websites
+is not very recommended.
+
+Bill Gates and his foundation
+Are both pretty rich,
+But there's no proof they're profiting
+By selling UK vaccines.
+ --------------------- 
+
+716
+Claim:  Says researchers found a fabric that kills coronaviruses  
+Label: mostly-true 
+Source: https://www.politifact.com/factchecks/2020/may/30/facebook-posts/research-fabric-can-neutralize-coronavirus-masks/ 
+ 
+Summary Explanation: 
+ “Electroceutical fabric” was developed in 2017 as an antimicrobial wound dressing, but a new study shows it is also effective at neutralizing coronaviruses.
+The makers are seeking FDA emergency approval to use it for COVID-19 face masks.
+Metal embedded in the fabric creates an electric current that stops the virus from assembling and attaching to the host after a minute of exposure to the electrical field.
+These findings are in a preliminary study that has not yet gone through the peer-review process.
+ 
+Poem: 
+Researchers work very hard
+Some of them to make the world a better place,
+But celebrating too early
+Might end up in disgrace.
+
+An “electroceutical fabric” was invented in 2017,
+To fight microbial fuddy-duddy
+But if it can successfully stop COVID-19
+It's still a preliminary study.
+ --------------------- 
