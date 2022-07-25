@@ -1,0 +1,110 @@
+
+367
+Claim:  Photo that shows COVID-19 test swabs labeled positive and negative proves that the tests are fixed.  
+Label: false 
+Source: https://www.politifact.com/factchecks/2021/apr/28/instagram-posts/labeled-swabs-photo-are-quality-control-not-sign-c/ 
+ 
+Summary Explanation: 
+ An image that shows a COVID-19 testing kit with control swabs labeled “positive” and “negative” is legitimate, but it doesn’t prove that COVID-19 tests are pre-loaded with a result. The swabs are used for quality control to make sure the test is working correctly, not for patient testing.
+Control materials are routinely included in medical testing kits to ensure that the tests are performing as expected and recording the correct results.
+ 
+Poem: 
+All of these people with their misinformation
+Must be the truth if its an image on the screen
+Affecting our generation
+They should stop making a scene
+
+Professionals work hard
+Safeguarding the test quality
+So you dont have to be on guard
+Concerning its funcionality
+ --------------------- 
+
+48
+Claim:  President Joe Biden gave Congress an exemption from vaccine mandate  
+Label: false 
+Source: https://www.politifact.com/factchecks/2022/jan/25/facebook-posts/biden-didnt-exempt-congress-vaccine-mandate-he-sim/ 
+ 
+Summary Explanation: 
+ President Biden’s executive order mandating COVID-19 vaccines for federal workers applies only to those in the executive branch of government.
+Congress is in the legislative branch, one of three separate but equal branches.
+“Another way to think about it is that members of Congress work directly for the people, not for President Biden,” a law expert told PolitiFact.
+ 
+Poem: 
+Like many things in life
+Outside elements are causing strife
+It only takes one good look
+To see it has been mistook
+
+Biden spoke to his staff
+Not to congress legislation
+But to the other half
+It is simply the way of a nation
+ --------------------- 
+
+483
+Claim:  We have scientific data, from all different levels, but particularly from the high school sports levels, from numerous different states that shows that it is safe to play what New York is considering high-risk sports.  
+Label: barely-true 
+Source: https://www.politifact.com/factchecks/2021/jan/26/colin-schmitt/sweeping-claim-about-safety-youth-sports-lacks-evi/ 
+ 
+Summary Explanation: 
+ Limited data has shown that some sports do not result in widespread transmission of coronavirus, but much remains unknown. Outdoor activities where social distancing can be maintained carry the least risk.
+Indoor ice hockey in particular has caught epidemiologists' attention for several separate cases of virus transmission in different parts of the country.
+Any activity where masking and social distancing cannot be maintained carries risk of transmission, experts said.
+ 
+Poem: 
+No one would think simple contact would be dangerous
+but the truth can be treacherous
+Sports for good example
+All thats needed is a little sample
+
+So practice some distancing
+Wearing face coverings
+is quite riveting
+especially wheb you considers all the colorings!
+
+ --------------------- 
+
+641
+Claim:  Says Sen. Thom Tillis doesn’t think restaurant workers should have to wash their hands.  
+Label: false 
+Source: https://www.politifact.com/factchecks/2020/jul/25/majority-forward/tillis-never-said-restaurant-workers-shouldnt-have/ 
+ 
+Summary Explanation: 
+ A new television ad by Majority Forward PAC says U.S. Sen. Thom Tillis (R-NC) “doesn’t think restaurant workers should have to wash their hands.”
+The ad doesn't provide context for the comments, which Tillis made in 2015.
+Tillis was making a point about regulations, not offering his opinion on whether workers should wash their hands.
+ 
+Poem: 
+A simple twist of words
+Not something we should look towards
+Warps the intentions
+With no consistent mentions
+
+Tillis gave his toughts
+without any knots
+He would be fine in the morning
+wit at least a proper warning
+ --------------------- 
+
+273
+Claim:  CDC will revoke the emergency use authorization of the PCR COVID tests because those tests don t differentiate between COVID and flu viruses. Translation: They ve been adding flu cases to Covid cases when using that test.  
+Label: false 
+Source: https://www.politifact.com/factchecks/2021/jul/30/facebook-posts/cdc-test-cant-differentiate-between-covid-and-flu-/ 
+ 
+Summary Explanation: 
+ Posts circulating on Facebook and Instagram incorrectly claim that the Centers for Disease Control and Prevention is withdrawing its COVID-19 test because it cannot differentiate between the COVID virus and flu viruses.
+The CDC’s emergency use authorization from the Food and Drug Administration was not for a test that is distributed or sold but a protocol specifying which reagents were needed to test for the COVID virus.
+According to experts, the CDC chose to withdraw its EUA request because it wanted to direct laboratories and testing facilities to use a protocol that tests for multiple viruses at once, not just the COVID virus, to save time and resources as flu season approaches.
+ 
+Poem: 
+COVID has a knack
+for going on the attack
+But its not without competition
+Despite its recognition
+
+While the tests wont change
+The reagents will not do
+It might seem strange
+But is what others will do too
+ --------------------- 

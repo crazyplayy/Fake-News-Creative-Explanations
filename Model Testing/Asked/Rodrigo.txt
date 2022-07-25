@@ -1,0 +1,66 @@
+
+543
+Claim:  Says Dan Forest has missed almost half of the Board of Education meetings during the pandemic.  
+Label: true 
+Source: https://www.politifact.com/factchecks/2020/oct/30/roy-cooper/cooper-right-about-forest-education-board-attendan/ 
+ 
+Summary Explanation: 
+ North Carolina Gov. Roy Cooper (D) faces a challenge from Lt. Gov. Dan Forest (R).
+In a debate, Cooper said Forest has missed "almost half" of the state's Board of Education meetings, while Forest said he'd been to "almost every one of those meetings."
+Records show Forest has missed 46% of the board meetings held since March 10, when Cooper declared a State of Emergency because of the coronavirus outbreak.
+ 
+Poem: 
+
+ --------------------- 
+
+382
+Claim:  Says science shows the physiological effects of wearing masks include hypoxemia, hypercapnia, shortness of breath, toxicity and increased muscle tension.  
+Label: false 
+Source: https://www.politifact.com/factchecks/2021/apr/16/diamond-and-silk/medical-hypotheses-journal-article-lacks-evidence-/ 
+ 
+Summary Explanation: 
+ The journal cited in the post, Medical Hypotheses, says its purpose is to publish “theoretical papers."
+Claims about ill effects from mask wearing such as hypoxemia and hypercapnia, which are listed in the article, have been debunked.
+ 
+Poem: 
+
+ --------------------- 
+
+665
+Claim:  Dr. Fauci: No reason to be wearing a mask.  
+Label: barely-true 
+Source: https://www.politifact.com/factchecks/2020/jul/08/facebook-posts/video-shows-outdated-face-mask-guidance-dr-anthony/ 
+ 
+Summary Explanation: 
+ An old video of Dr. Anthony Fauci saying that people don’t need to wear face masks was taken out of context.
+Since April, the CDC has recommended face coverings to prevent the spread of COVID-19, and Fauci has pushed for their use as well.
+ 
+Poem: 
+
+ --------------------- 
+
+507
+Claim:  21% of people are having serious adverse events from (the Moderna) vaccine.  
+Label: false 
+Source: https://www.politifact.com/factchecks/2020/dec/18/blog-posting/video-shared-facebook-inflates-risk-moderna-vaccin/ 
+ 
+Summary Explanation: 
+ Moderna’s data shows that 0.5% of people had a serious adverse reaction.
+ 
+Poem: 
+
+ --------------------- 
+
+888
+Claim:  Now, they’re doing tests on airlines — very strong tests — for getting on, getting off. They’re doing tests on trains — getting on, getting off.  
+Label: pants-fire 
+Source: https://www.politifact.com/factchecks/2020/apr/06/donald-trump/donald-trump-wrong-about-covid-19-testing-airplane/ 
+ 
+Summary Explanation: 
+ The CDC is not testing passengers for COVID-19 as they get on or off airplanes and trains.
+The federal government is screening certain passengers at 13 airports.
+Screening can include looking for symptoms, but it’s not the same as a test.
+ 
+Poem: 
+
+ --------------------- 

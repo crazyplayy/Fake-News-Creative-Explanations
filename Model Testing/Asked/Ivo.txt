@@ -1,0 +1,68 @@
+
+879
+Claim:  Says Rudy Giuliani bought $2M in shares of Novartis, a primary supplier of hydroxychloroquine in early February.  
+Label: false 
+Source: https://www.politifact.com/factchecks/2020/apr/09/tweets/fact-checking-rudy-giulianis-ties-hydroxychloroqui/ 
+ 
+Summary Explanation: 
+ Novartis is a Swiss pharmaceutical company that manufactures hydroxychloroquine. It has donated 30 million doses to the U.S.
+While Novartis paid Giuliani a speaker’s fee in 2006, there is no publicly available evidence that he currently has a financial stake in the company. He has denied having one in press reports.
+Financial disclosure documents indicate that Trump does not have a current connection to Novartis.
+ 
+Poem: 
+
+ --------------------- 
+
+324
+Claim:  920 women lose their unborn babies after getting vaccinated.  
+Label: false 
+Source: https://www.politifact.com/factchecks/2021/jun/08/instagram-posts/claim-about-920-miscarriages-caused-covid-19-vacci/ 
+ 
+Summary Explanation: 
+ The post does not provide evidence supporting its claim, and we found none confirming that COVID-19 vaccines have caused hundreds of miscarriages.
+Public health experts generally recommend that COVID-19 vaccines are safe for people who are pregnant.
+ 
+Poem: 
+
+ --------------------- 
+
+718
+Claim:  Michigan governor reopened Traverse City so she could have her daughter s open house.  
+Label: false 
+Source: https://www.politifact.com/factchecks/2020/may/29/facebook-posts/michigan-governor-didnt-have-family-event-reopened/ 
+ 
+Summary Explanation: 
+ Easing one of her COVID-19 stay-at-home orders, Gov. Gretchen Whitmer partially reopened a large swath of northern Michigan.
+The governor’s office said the reopening did not coincide with any Whitmer family event in Traverse City, which is in the reopened area.
+ 
+Poem: 
+
+ --------------------- 
+
+515
+Claim:  40 years of research, and no vaccine for HIV. At least 100 years of research and no vaccine for cancer. Ongoing research and no vaccine for the common cold. Now in less than a year, there s a vaccine for COVID-19?  
+Label: barely-true 
+Source: https://www.politifact.com/factchecks/2020/dec/10/facebook-posts/fact-checking-facebook-post-comparing-covid-19-vac/ 
+ 
+Summary Explanation: 
+ Despite decades of research, there is no vaccine against HIV given unique challenges the virus poses, such as rapid mutations that are difficult for the immune system to adapt to.
+There are some vaccines to prevent and even treat some cancers, but not all cancers are caused by a virus.
+There are many different rhinoviruses that can cause the common cold. That makes it difficult for researchers to create a vaccine that can address them all.
+Governments around the world have invested in companies to help speed up a COVID-19 vaccine. COVID-19 vaccines up for FDA evaluation have characteristics that allow them to be produced faster than other commonly known vaccines.
+ 
+Poem: 
+
+ --------------------- 
+
+748
+Claim:  Beachgoers trash Florida beaches with 13,000 pounds of litter after beaches reopen.  
+Label: mostly-true 
+Source: https://www.politifact.com/factchecks/2020/may/18/facebook-posts/reopened-florida-beach-leads-more-trash/ 
+ 
+Summary Explanation: 
+ In most of Florida, the beaches have reopened in recent weeks after shutdowns.
+More people back on the beaches has led to more litter at Cocoa Beach.
+ 
+Poem: 
+
+ --------------------- 
