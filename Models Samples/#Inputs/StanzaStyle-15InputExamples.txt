@@ -1,0 +1,268 @@
+Write me a poem for a given summary taking into account the claim and the label 
+
+Claim:  CDC will revoke the emergency use authorization of the PCR COVID tests because those tests don t differentiate between COVID and flu viruses. Translation: They ve been adding flu cases to Covid cases when using that test.  
+Label: false 
+Summary Explanation: 
+ Posts circulating on Facebook and Instagram incorrectly claim that the Centers for Disease Control and Prevention is withdrawing its COVID-19 test because it cannot differentiate between the COVID virus and flu viruses.
+The CDC’s emergency use authorization from the Food and Drug Administration was not for a test that is distributed or sold but a protocol specifying which reagents were needed to test for the COVID virus.
+According to experts, the CDC chose to withdraw its EUA request because it wanted to direct laboratories and testing facilities to use a protocol that tests for multiple viruses at once, not just the COVID virus, to save time and resources as flu season approaches.
+ 
+Poem: 
+ COVID has a knack
+for going on the attack
+But its not without competition
+Despite its recognition
+
+While the tests wont change
+The reagents will not do
+It might seem strange
+But is what others will do too 
+
+
+Claim:  Says Joe Biden and Kamala Harris distrusted COVID-19 vaccines.  
+Label: false 
+Summary Explanation: 
+ Video clips appear to show Joe Biden and Kamala Harris raising doubts about COVID-19 vaccines, but they were raising concerns about the rollout by then-President Donald Trump, not the vaccines themselves.
+ 
+Poem: 
+ Joe and Kamala were both being
+About vaccines not being good
+But no, they actually were disagreeing
+With where Trump once stood. 
+
+
+Claim:  Mask mandates on children lead to learning loss that harms early childhood development.  
+Label: barely-true 
+Summary Explanation: 
+ Public health officials pointed out the article cited as support was “not a study but an opinion paper.”
+According to the U.S. Centers for Disease Control and Prevention, limited available data indicates “no clear evidence that masking impairs emotional or language development in children.”
+ 
+Poem: 
+ Yes, children are sick of masks, as we all are,
+but it doesn't mean they learn better without them.
+Maybe next time before you cause such mayhem,
+check if any study supports what you stated so far. 
+
+
+Claim:  It makes no sense to require vaccinations for the previously infected.  
+Label: false 
+Summary Explanation: 
+ People who have had COVID-19 do have some level of immunity; however, the CDC recommends vaccination because it provides better protection.
+Naturally acquired immunity may not be as effective against variant strains of the virus that cause COVID-19.
+ 
+Poem: 
+ "If you had it, you don't need the vaccine",
+people say. But the CDC, still protective,
+states natural immunity is not that effective
+against other strains that cause COVID-19. 
+
+
+Claim:  Dr. Fauci: No reason to be wearing a mask.  
+Label: barely-true 
+Summary Explanation: 
+ An old video of Dr. Anthony Fauci saying that people don’t need to wear face masks was taken out of context.
+Since April, the CDC has recommended face coverings to prevent the spread of COVID-19, and Fauci has pushed for their use as well.
+ 
+Poem: 
+ A recent video displays the acclaimed doctor Fauci
+Speaking against masks, stating
+"No reason to be wearing mask"
+But taking things out of context is frustating
+
+The mentioned video was from 4 months ago
+When the pandemic wasn't such a deathblow
+Since then masks are advisable
+Therefore the label of barely-true is assignable. 
+
+
+Claim:  COVID cases in India plummet after government promotes ivermectin and hydroxychloroquine use.  
+Label: barely-true 
+Summary Explanation: 
+ On April 28, India’s government recommended hydroxychloroquine as a preventive medicine for people who are near patients in home isolation who have mild or no COVID-19 symptoms, and suggested the use of ivermectin to treat those patients.
+Neither drug is approved in the U.S. for COVID-19. The U.S. Food and Drug Administration and the World Health Organization recommend against using them to prevent or to treat the virus.
+COVID-19 cases in India began to drop in mid-May after a nearly vertical spike over the previous several weeks.
+ 
+Poem: 
+ Reality in true,
+is not everything you see.
+Dropping, the cases began to,
+Who knows, maybe because of the tea.
+
+Hydroxy and Ivermectin,
+Neither is approved by WHO,
+taking them is like a sin,
+which you'll regret in time due. 
+
+
+Claim:  The second booster has eight strains of HIV.  
+Label: pants-fire 
+Summary Explanation: 
+  The ingredients of COVID-19 vaccines are published and do not include HIV.
+ The vaccine ingredients do not change between doses. Each shot in the mRNA COVID-19 vaccine series, including the booster, has the same ingredients. 
+ 
+Poem: 
+ Every food has recipes,
+precious holy grails,
+Vaccines fight enemies,
+who run off with their tails.
+
+You don't change instructions,
+just because the dose is new.
+We already made the introductions,
+why would HIV be in queue? 
+
+
+Claim:  COVID-19 surges among most vaxxed communities, says Harvard study.  
+Label: half-true 
+Summary Explanation: 
+ A study led by a Harvard researcher found high rates of infection in communities with high rates of vaccination.
+It concluded that prevention measures such as handwashing, safe distancing and testing should be employed along with vaccinations to fight the epidemic.
+ 
+Poem: 
+ If COVID-19 knocks on your door,
+vaccines will open it wide.
+But once it comes inside,
+With it they'll wipe the floor.
+
+Even if you are vaccinated,
+you can get infected.
+Handwashing shouldn't be neglected
+and safe distancing calculated. 
+
+
+Claim:  Says Joni Ernst claims she ‘pushed for’ new funding for hospitals and COVID-19 testing after opposing It for weeks.  
+Label: half-true 
+Summary Explanation: 
+ Democrats and Republicans were at loggerheads in April over whether to sandwich more funding for hospitals and testing with dollars for the Paycheck Protection Program as money ran out for the federal small business loan program.
+Sen. Joni Ernst, R-Iowa pivoted in messaging, initially criticizing efforts to include any add-ons to replenish the Paycheck Protection Program, but later said she pushed for hospital and COVID-19 testing that was included in replenishing the PPE funds.
+ 
+Poem: 
+ The Democrats claim Ernst reversed
+While she didn't directly oposse
+Fundings for Covid-19 testing she dispersed
+Saying it would be later discussed.
+
+Republicans are red 
+Democrats are blue,
+Joni Ernst may have flipped her position
+While playing with omission 
+
+
+Claim:  Research illustrates a clear correlation between vitamin D deficiencies and (higher) COVID-19 mortality rates.  
+Label: true 
+Summary Explanation: 
+ U.S. Rep. Glenn Grothman touted a correlation between vitamin D deficiencies and COVID-19 deaths, suggesting the supplement may help combat the virus.
+Early research verifies that correlation, but more work needs to be done.
+Grothman emphasized that point and didn’t imply vitamin D is a cure for COVID-19.
+ 
+Poem: 
+ From the moment we are born
+Our doctors and mothers say
+You should eat fruits and vegetables 
+Including oranges
+
+There is a clear correlation 
+Between COVID deaths 
+And lack of proper D vitamination
+Along with more tests 
+
+
+Claim:  President Joe Biden gave Congress an exemption from vaccine mandate  
+Label: false 
+Summary Explanation: 
+ President Biden’s executive order mandating COVID-19 vaccines for federal workers applies only to those in the executive branch of government.
+Congress is in the legislative branch, one of three separate but equal branches.
+“Another way to think about it is that members of Congress work directly for the people, not for President Biden,” a law expert told PolitiFact.
+ 
+Poem: 
+ Like many things in life
+Outside elements are causing strife
+It only takes one good look
+To see it has been mistook
+
+Biden spoke to his staff
+Not to congress legislation
+But to the other half
+It is simply the way of a nation 
+
+
+Claim:  Says spending Democrats is driving major jumps in car rentals, gas prices and hotel prices this summer  
+Label: barely-true 
+Summary Explanation: 
+ Inflation has gone up since the start of the coronavirus pandemic -- about 5% between May 2020 and May 2021
+But the jump in inflation doesn’t account for the rapidly increasing prices for travel
+In fact, everyday consumers are driving prices higher as more and more people book trips
+ 
+Poem: 
+ Blaming the Democrats for inflation is a low blow
+when inflation started alongside the pandemic, about two years ago
+Maybe Tiffany doesn´t know what supply and demand means
+because the more people travel, the bigger the price it seems. 
+
+
+Claim:  [U.S. Rep. Conor Lamb] said he would NOT vote for [Nancy Pelosi] for Speaker, and did.  
+Label: pants-fire 
+Summary Explanation: 
+ On Memorial Day, President Donald Trump attacked a Democratic congressman from western Pennsylvania, labeling him an “American fraud” and accusing of supporting Nancy Pelosi for house speaker, even though he had promised voters he would oppose her.
+A quick search of Lamb’s voting record shows that Trump’s claim is not true. He was one of 15 Democrats in Congress who did not vote for Pelosi in the January 2019 speaker election. Lamb voted for U.S. Rep. Joe Kennedy III of Massachusetts instead.
+It wasn’t the first time Trump made a false claim about Lamb. In March 2018, Trump falsely told attendees at a private fundraiser for Missouri Senate candidate Josh Hawley that Lamb “ran on a campaign that said very nice things about me.”
+ 
+Poem: 
+ Well well well,
+Would you look at that?
+Just another claim
+That has no fact.
+
+Trump did it again,
+another blatant lie.
+A quick search eye
+and this claim is slain.
+
+Lamb was clear,
+He didn't want Pelosi near.
+So he voted for Kennedy instead,
+that's the true you need to spread. 
+
+
+Claim:  There will be several thousand dollars in payments going to families with six-figure incomes who’ve had no income interruption whatsoever.  
+Label: true 
+Summary Explanation: 
+ Sen. Pat Toomey this week criticized President Joe Biden’s proposed $1.9 trillion coronavirus relief package, saying the direct payments Biden wants to send Americans are poorly targeted to those most in need.
+Married couples making up to $150,000 annually would qualify for $2,800 in new payments, on top of the $1,200 they should have received this month from the relief package then-President Donald Trump signed into law late last year.
+Together, those payments would total $2,000 per person — the target Democrats in Congress set, Trump made a late and unsuccessful push for, and that Biden is now pursuing from the White House.
+ 
+Poem: 
+ Biden wants to relief the american pockets.
+though it might end up on already filled ones.
+Married couples get the benefits
+and the ones who need it wont get the funds. 
+
+
+Claim:  80% of women who have been jabbed have lost their children in the first trimester.  
+Label: false 
+Summary Explanation: 
+ A claim made in a viral school board meeting video appears to parrot a false claim that manipulated the findings of a preliminary study.
+There is no evidence to back the claim that 80% of COVID-19-vaccinated women miscarried during their first trimester of pregnancy.
+A CDC analysis did not find an increased risk of miscarriage among nearly 2,500 pregnant women who received an mRNA COVID-19 vaccine before 20 weeks of pregnancy.
+ 
+Poem: 
+ Studies that are preliminary,
+are targetted by manipulation.
+Lies are easy to carry,
+when there's no foundation.
+
+No increased risk was found,
+on a nearly 2,500 women set.
+So, if vaccinated you get,
+no miscarriage risk is bound. 
+
+
+Claim:  The (Erie Co., N.Y.) health commissioner makes more than the governor, the vice president of the United States, and has a salary that is comparable to Dr. Anthony Fauci.  
+Label: mostly-true 
+Summary Explanation: 
+ Dr. Gale Burstein’s compensation, when factoring in fringe benefits, reached $532,418 in 2020 due to a special overtime rule enacted during the coronavirus pandemic.
+Burstein’s combination of salary, benefits, and overtime in 2020 exceeded the easily classifiable compensation for Pence, Fauci and Gov. Cuomo.
+However, Cuomo and Pence receive housing, transportation, and security benefits that are large but hard to quantify, and if these benefits are added into the calculation, they likely exceed what Burstein received.
+ 
+Poem:  
+

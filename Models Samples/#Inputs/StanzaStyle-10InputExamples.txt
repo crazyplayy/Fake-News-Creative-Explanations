@@ -1,0 +1,199 @@
+Write me a poem for a given summary taking into account the claim and the label 
+
+Claim:  The New York City Police Department arrested a 9-year-old because she didn’t have a vaccine card in the museum.  
+Label: false 
+Summary Explanation: 
+  The 9-year-old was not arrested. She was escorted to the police station in a separate car from those who were arrested — a group which included her mother — and cared for by police officers until her mother was released. 
+ The adults were arrested and charged with trespassing because they would not leave the museum after it closed.
+ 
+Poem: 
+ Kids like to fool around
+making jokes and pranks,
+but they are not robbing banks
+in a museum, goons ain't found.
+
+This kid was escorted
+to the police station,
+there she was supported
+and cared with attention.
+
+She ended up there,
+because mom was in a group
+that police arrested fair.
+The museum floor needs to be swoop
+Time's over for photos and stare.
+
+COVID-19 or card vaccine,
+have no part in this.
+Manipulation is no sin,
+but trespassing is. 
+
+
+Claim:  There will be several thousand dollars in payments going to families with six-figure incomes who’ve had no income interruption whatsoever.  
+Label: true 
+Summary Explanation: 
+ Sen. Pat Toomey this week criticized President Joe Biden’s proposed $1.9 trillion coronavirus relief package, saying the direct payments Biden wants to send Americans are poorly targeted to those most in need.
+Married couples making up to $150,000 annually would qualify for $2,800 in new payments, on top of the $1,200 they should have received this month from the relief package then-President Donald Trump signed into law late last year.
+Together, those payments would total $2,000 per person — the target Democrats in Congress set, Trump made a late and unsuccessful push for, and that Biden is now pursuing from the White House.
+ 
+Poem: 
+ Biden wants to relief the american pockets.
+though it might end up on already filled ones.
+Married couples get the benefits
+and the ones who need it wont get the funds. 
+
+
+Claim:  Says truck drivers are being turned away from fast-food restaurants during the COVID-19 pandemic.  
+Label: mostly-true 
+Summary Explanation: 
+ Truck drivers are having issues getting meals at some fast-food chains with shuttered dining rooms. Their rigs can’t fit in drive-thru lanes and they aren’t allowed to walk up and order at the window.
+McDonald’s responded to complaints and created a curbside trucker ordering service at some of its locations.
+Other fast-food chains haven’t yet implemented a solution.
+ 
+Poem: 
+ Truck drivers can't go and order some fries
+but it's not what your're thinking, at all!
+It's just that the trucks are too big in size
+and the drive-through windows are just too small!
+
+But McDonalds is granting truckers a wish:
+They are bulding taller windows
+for the truckers to enjoy their filet-o-fish.
+A solution is coming, as it shows. 
+
+
+Claim:  FDA approval means nothing when you realize the FDA also approves pesticides in our food!  
+Label: barely-true 
+Summary Explanation: 
+ The EPA sets limits on pesticide residue in food, while the FDA monitors the food supply and enforces the limits.
+The Pfizer vaccine was approved after meeting the FDA’s standards for vaccine safety.
+ 
+Poem: 
+ Our bodies are sacred,
+your should be carefull with the drugs you´re taking.
+If you are scared of vacines
+the approved by FDA aren´t your enemies.
+
+Yes, we ingest some pesticides,
+but responsibility comes from two sides.
+FDA takes care of our bodies,
+by enforcing their safe quantities. 
+
+
+Claim:  Says Gov. Tony Evers is pushing firearm confiscation orders  
+Label: pants-fire 
+Summary Explanation: 
+ A Facebook post finding new life amid the coronavirus outbreak says Evers is pushing gun confiscation, but the linked article is from April 2019.
+At that time, Evers hadn’t proposed any such thing, and the article only details a call for red flag laws from the attorney general.
+So what was wrong in 2019 is now both wrong and ridiculous.
+ 
+Poem: 
+ News Feed lies happen every time.
+No gun confiscation then, no gun confiscation now.
+But, please, do! it’s worth every dime.
+Such a red flag, how is this still allowed? 
+
+
+Claim:  Says Sen. Thom Tillis doesn’t think restaurant workers should have to wash their hands.  
+Label: false 
+Summary Explanation: 
+ A new television ad by Majority Forward PAC says U.S. Sen. Thom Tillis (R-NC) “doesn’t think restaurant workers should have to wash their hands.”
+The ad doesn't provide context for the comments, which Tillis made in 2015.
+Tillis was making a point about regulations, not offering his opinion on whether workers should wash their hands.
+ 
+Poem: 
+ A simple twist of words
+Not something we should look towards
+Warps the intentions
+With no consistent mentions
+
+Tillis gave his toughts
+without any knots
+He would be fine in the morning
+wit at least a proper warning 
+
+
+Claim:  North Carolina is in the small minority of states that requires an absentee ballot to be signed two witnesses or a notary public.  
+Label: true 
+Summary Explanation: 
+ Jay Chaudhuri and Natasha Marcus, North Carolina state Senators, want to make it easier for people to vote absentee by mail.
+In an op-ed, they claim that NC is in the "small minority" of states that require two witnesses to sign an absentee ballot.
+That's true. NC is one of only three states that require the ballots to be signed by two witnesses if a notary isn't available.
+ 
+Poem: 
+ Nobody likes
+The COVID pandemic.
+To know that you don't have to be
+A brilliant academic.
+
+But it's hard to not get infected with
+The COVID pandemic
+When you can't absentee vote
+Because the process is very bureaucratic.
+
+Two of the NC senators
+Want to make it easier
+"Let's vote like almost every other state!", they say
+So the process can be breezier. 
+
+
+Claim:  Dr. Fauci: No reason to be wearing a mask.  
+Label: barely-true 
+Summary Explanation: 
+ An old video of Dr. Anthony Fauci saying that people don’t need to wear face masks was taken out of context.
+Since April, the CDC has recommended face coverings to prevent the spread of COVID-19, and Fauci has pushed for their use as well.
+ 
+Poem: 
+ A recent video displays the acclaimed doctor Fauci
+Speaking against masks, stating
+"No reason to be wearing mask"
+But taking things out of context is frustating
+
+The mentioned video was from 4 months ago
+When the pandemic wasn't such a deathblow
+Since then masks are advisable
+Therefore the label of barely-true is assignable. 
+
+
+Claim:  There s over a trillion dollars of money unspent from previous (coronavirus) relief bills ... still sitting in a bank account.  
+Label: half-true 
+Summary Explanation: 
+ About $1 trillion remains to be disbursed, but a large share of it has been allocated or is scheduled to be spent.
+Most of the unspent money was approved in late December, and it takes time to distribute it.
+As the economy recovers, some of the money might not be spent.
+ 
+Poem: 
+ You know a trillion dollars is a lot of money.
+So you wouln't expect it to be used in such a hurry.
+So don't worry, there is a plan of distribution,
+And maybe saving it for another time would be the greatest contribution. 
+
+
+Claim:  Now, they’re doing tests on airlines — very strong tests — for getting on, getting off. They’re doing tests on trains — getting on, getting off.  
+Label: pants-fire 
+Summary Explanation: 
+ The CDC is not testing passengers for COVID-19 as they get on or off airplanes and trains.
+The federal government is screening certain passengers at 13 airports.
+Screening can include looking for symptoms, but it’s not the same as a test.
+ 
+Poem: 
+ Once again discussing Donald Trump
+Not sure if suffering from a bump
+Stated that transportation hubs were being tested
+That for passengers COVID-19 tests were being requested
+
+In reality only screenings were carried out
+For symptoms to flag
+The only thing you need to worry is with jet-lag
+So no miss-information needs to be spout. 
+
+
+Claim:  The (Erie Co., N.Y.) health commissioner makes more than the governor, the vice president of the United States, and has a salary that is comparable to Dr. Anthony Fauci.  
+Label: mostly-true 
+Summary Explanation: 
+ Dr. Gale Burstein’s compensation, when factoring in fringe benefits, reached $532,418 in 2020 due to a special overtime rule enacted during the coronavirus pandemic.
+Burstein’s combination of salary, benefits, and overtime in 2020 exceeded the easily classifiable compensation for Pence, Fauci and Gov. Cuomo.
+However, Cuomo and Pence receive housing, transportation, and security benefits that are large but hard to quantify, and if these benefits are added into the calculation, they likely exceed what Burstein received.
+ 
+Poem: 
+
