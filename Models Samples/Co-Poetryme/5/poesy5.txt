@@ -1,0 +1,47 @@
+Couplet:
+
+  (#s,#l)  parse                                           rhyme      #feet    #syll    #parse
+---------  ----------------------------------------------  -------  -------  -------  --------
+      1.1  SO.ME*|body|SHAKES|when|THE*|a|MU|sement|SHOWS  -              5       10         8
+      1.2  ILL|mask*|YOU*|to.the|PRE|pa|RA|tions|THERE*    -              5       10         9
+
+
+estimated schema
+----------
+meter: Iambic
+feet: Pentameter
+syllables: 10
+rhyme: Couplet (aa)
+
+Haiku:
+
+  (#s,#l)  parse                         rhyme      #feet    #syll    #parse
+---------  ----------------------------  -------  -------  -------  --------
+      1.1  OH.MI*|sre.pre*|SEN|ted       -              2        6         3
+      1.2  the|HO|nor.of*|RE|pu|TA|tion  b              3        8         2
+      1.3  HOS|pi|TA*|li|ZA|tion         b              3        6         1
+
+
+estimated schema
+----------
+meter: Trochaic
+feet: Complex (2-3-3)
+syllables: Complex (6-8-6)
+rhyme: Triplet (aaa)
+
+Quatrain:
+
+  (#s,#l)  parse                                             rhyme      #feet    #syll    #parse
+---------  ------------------------------------------------  -------  -------  -------  --------
+      1.1  SE|ries.and*|PE|rio|DI|ca|LS*|and|MEN             -              5       10         2
+      1.2  the|RULES|of|HEA|ven|CUS|tom|OER|me               b              4        9         1
+      1.3  IN|with.the|CAPES|of.in*|DE|fi.nite*|MI           b              4       10         9
+      1.4  and.the|BIT|ter|ME|lon.for*|DOSE|and|SYP|hi|LIS*  -              5       12         6
+
+
+estimated schema
+----------
+meter: Iambic
+feet: Complex (5-4-4-5)
+syllables: Complex (10-10-10-12)
+rhyme: Enclosed Rhyme (abba)

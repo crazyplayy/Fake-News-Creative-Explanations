@@ -1,0 +1,47 @@
+Couplet:
+
+  (#s,#l)  parse                                      rhyme      #feet    #syll    #parse
+---------  -----------------------------------------  -------  -------  -------  --------
+      1.1  THIR|ty|PRIN|ci|PLES*|e|NOUGH.KEY*|for.me  a              4       10         4
+      1.2  WOR|king.her*|ARMS|off|AC|tion.and*|KEY    a              4        9         9
+
+
+estimated schema
+----------
+meter: Anapestic
+feet: Tetrameter
+syllables: 10
+rhyme: Couplet (aa)
+
+Haiku:
+
+  (#s,#l)  parse                            rhyme      #feet    #syll    #parse
+---------  -------------------------------  -------  -------  -------  --------
+      1.1  as|SUME.OH*|as|SUME              a              2        5         4
+      1.2  WHEN|you|STILL|them|YOULL|ease*  -              3        6         4
+      1.3  he|PLAYS|the.down|PLUME          a              2        5         1
+
+
+estimated schema
+----------
+meter: Trochaic
+feet: Complex (2-3-2)
+syllables: 6
+rhyme: Triplet (aaa)  
+
+Quatrain:
+
+  (#s,#l)  parse                                                rhyme      #feet    #syll    #parse
+---------  ---------------------------------------------------  -------  -------  -------  --------
+      1.1  pro|CLAI|ming|WHAT|is|NO|and|ALL|a|CROSS             -              5       10         1
+      1.2  then|MOUN|tai|NEER|nor|HIL|la|RY*|shall|WA|ken       b              5       11         3
+      1.3  in|SA|fety|SI|tua|TI|ons|BA|sely.for*|SA|ken         b              5       12         2
+      1.4  through|ALL|the|MO|narchs*|PRE|si|DENT|have|CHANGED  -              5       10         1
+
+
+estimated schema
+----------
+meter: Iambic
+feet: Pentameter
+syllables: Complex (10-12-12-10)
+rhyme: Enclosed Rhyme (abba)

@@ -1,0 +1,24 @@
+Couplet:
+
+Iambic Alternating: 1
+---------------------
+Iambic Pentameter: 2
+Trochaic Pentameter: 1
+Anapestic Tetrameter: 1
+Couplet: 5
+
+
+Haiku:
+
+Trochaic Complex: 5
+Triplet: 5
+
+
+Quatrain:
+
+Iambic Complex: 1
+-----------------
+Iambic Complex: 3 - 1 c 1 c 1 e
+Iambic Pentameter: 1 e
+Couplet: 3
+Enclosed: 2
