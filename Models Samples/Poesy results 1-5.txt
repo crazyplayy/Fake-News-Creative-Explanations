@@ -1,0 +1,53 @@
+125M
+
+No rhyme scheme: 1
+------------------
+Trochaic Complex: 1 c 1 t 1 rr
+Trochaic Trimeter: 1 t
+Triplet: 2
+Couplet: 1
+Rhyme Royal: 1
+
+
+1.3B
+
+Trochaic Trimeter: Monk'S Tale Stanza
+-------------------------------------
+Dactylic Tetrameter: 1 ss
+Iambic Complex: 1 a 1 t
+Trochaic Complex: 1 t
+Triplet: 2
+Alternating: 1
+Sonnet: 1 Shakespeare
+
+
+2.7B
+Iambic Pentameter: Couplet
+--------------------------
+Trochaic Trimeter: 1 t
+Trochaic Dimeter: 1 s
+Iambic Complex: 1 t 1 c
+Triplet: 2
+Couplet: 2
+Sonnet: 1
+
+
+6B
+
+Trochaic Complex: Rhyme Royal
+-----------------------------
+Iambic Complex: 1 se 1 se 1 c
+Trochaic Trimeter: 1 t
+Sestet: 2
+Couplet: 1
+Triplet: 1
+
+
+20B
+
+Iambic Complex: Couplet
+------------------------
+Trochaic Complex: 1 c 1 rr 1 c
+Iambic Complex: 1 c
+Couplet: 4
+Rhyme Royal: 1

@@ -1,0 +1,17 @@
+  (#s,#l)  parse                                                        rhyme      #feet    #syll    #parse
+---------  -----------------------------------------------------------  -------  -------  -------  --------
+      1.1  FLO|ri.da*|IS|a|PLACE|where.the|SUN|is|BRIGHT                a              5       11         2
+      1.2  WHERE|the|FLOWERS|are|BLOO|ming|IN|spr|ING                   b              5        9         2
+      1.3  NEW|york*|IS|a|PLACE|where.the|SUN|is|BRIGHT                 a              5       10         3
+      1.4  WHERE|the|FLOWERS|are|BLOO|ming|IN|spr|ING                   b              5        9         2
+      1.5  but|NEW|york*|LAGS|in.one|THING                              b              3        7         1
+      1.6  WHICH|is|VAC|ci|NA|tions                                     -              3        6         2
+      1.7  NEW|yorks*|VI|rus|IS|not.as|LET|hal.as*|IT|is.in|FLO|ri|DA*  -              7       16         4
+
+
+estimated schema
+----------
+meter: Trochaic
+feet: Complex (5-5-5-5-3-3-7)
+syllables: Complex (12-10-10-10-8-6-16)
+rhyme: Rhyme Royal (ababbcc)

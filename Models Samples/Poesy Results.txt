@@ -1,0 +1,62 @@
+125M
+
+Trochaic Complex: 4 - 1 c 1 t 1 rr 1 t
+Trochaic Alternating: 1 c
+Trochaic Trimeter: 1 t
+Iambic Complex: 2 - 1 t 1 t
+Anapestic Alternating: 1 c
+Couplet: 3
+Triplet: 5
+Rhyme Royal: 1
+No rhyme scheme: 1
+
+1.3B
+
+Trochaic Trimeter: 1 m
+Dactylic Tetrameter: 1 ss
+Iambic Complex: 3 - 1 a 1 t 1 t
+Trochaic Complex: 4 - 1 t 1 a 1 s 1 a
+Trochaic Monometer: 1 c
+Triplet: 3
+Alternating: 3
+Couplet: 1
+Sonnet: 2 (1 shakespeare)
+Monk'S Tale Stanza: 1
+
+2.7B
+
+Iambic Pentameter: 1 c
+Trochaic Trimeter: 1 t
+Trochaic Dimeter: 1 s
+Trochaic Complex: 3 - 1 a 1 se 1 c
+Iambic Complex: 4 - 1 t 1 c 1 sps 1 e
+Couplet: 3
+Triplet: 2
+Sonnet: 1
+Alternating: 1
+Enclosed: 1
+Sestet: 1
+Spenserian Stanza: 1
+
+6B
+
+Trochaic Complex: 3 - 1 rr 1 c 1 rr
+Iambic Complex: 6 - 1 se 1 se 1 c 1 c 1 a 1 a
+Trochaic Trimeter: 1 t
+Couplet: 3
+Alternating: 2
+Sestet: 2
+Rhyme Royal: 2
+Triplet: 1
+
+20B
+
+Iambic Complex: 4 - 1 c 1 c 1 a 1 c
+Trochaic Complex: 4 - 1 c 1 rr 1 c 1 c
+Trochaic Trimeter: 1 qat
+Trochaic Tetrameter: 1 se
+Couplet: 6
+Rhyme Royal: 1
+Alternating: 1
+Sestet: 1
+Quatrain And Triplet: 1

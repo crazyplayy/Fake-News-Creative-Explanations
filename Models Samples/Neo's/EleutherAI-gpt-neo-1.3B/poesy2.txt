@@ -1,0 +1,28 @@
+  (#s,#l)  parse                                      rhyme      #feet    #syll    #parse
+---------  -----------------------------------------  -------  -------  -------  --------
+      1.1  the|FIRES|are|THE*|re|SULT|of.a|MAN        -              4        9         1
+      1.2  WHO|was.ar*|RES|ted.for*|LIGH|ting|FI|res  -              4       10         8
+
+      2.1  but|HE|was|NOT|ar|RES|ted.for*|THAT        -              4        9         4
+      2.2  HE|was.ar*|RES|ted.for*|LIGH|ting|FI|res   -              4       10         8
+
+      3.1  the|WIL.DFIRES*|are|THE*|re|SULT|of.a|MAN  e              4       10         6
+      3.2  WHO|was.ar*|RES|ted.for*|LIGH|ting|FI|res  f              4       10         8
+      3.3  but|HE|was|NOT|ar|RES|ted.for*|THAT        e              4        9         4
+      3.4  HE|was.ar*|RES|ted.for*|LIGH|ting|FI|res   f              4       10         8
+
+      4.1  the|WIL.DFIRES*|are|THE*|re|SULT|of.a|MAN  g              4       10         6
+      4.2  WHO|was.ar*|RES|ted.for*|LIGH|ting|FI|res  h              4       10         8
+      4.3  but|HE|was|NOT|ar|RES|ted.for*|THAT        g              4        9         4
+      4.4  HE|was.ar*|RES|ted.for*|LIGH|ting|FI|res   h              4       10         8
+
+      5.1  the|WIL.DFIRES*|are|THE*|re|SULT|of.a|MAN  -              4       10         6
+      5.2  WHO|was.ar*|RES|ted.for*|LIGH|ting         -              3        8         4
+
+
+estimated schema
+----------
+meter: Dactylic
+feet: Tetrameter
+syllables: Complex (10-10-10-10-10-10-8)
+rhyme: Sonnet, Shakespearean (abab cdcd efefgg)

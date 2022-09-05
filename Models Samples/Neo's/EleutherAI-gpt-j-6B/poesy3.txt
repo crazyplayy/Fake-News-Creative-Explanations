@@ -1,0 +1,22 @@
+  (#s,#l)  parse                                                            rhyme      #feet    #syll    #parse
+---------  ---------------------------------------------------------------  -------  -------  -------  --------
+     1.1   WE|are|ALL|a|FRAID|of.the|CO|ro|NA|vi|RUS*                       -              6       12         6
+     1.2   and|WE|are|ALL|a|FRAID|of.the|SUN                                b              4        9         1
+     1.3   WE|are|ALL|a|FRAID|of|WA|ter                                     c              4        8         2
+     1.4   but|NOT|of.the|SUN                                               b              2        5         1
+     1.5   the|CO|ro|NA|vi.rus*|IS|more|LIKE|the|SUN                        b              5       11         4
+     1.6   and|LESS|like|WA|ter                                             c              2        5         1
+     1.7   the|SUN|is|HOT                                                   c              2        4         1
+     1.8   but|NOT|as|HOT|as.the|CO|ro|NA|vi|RUS*                           d              5       11         3
+     1.9   the|SUN.SHINES*|on|E|ve|RYONE                                    b              3        7         2
+     1.1   but.not|E|ve|RYONE|is|AS*|con|TA|gious|AS*|the|CO|ro|NA|vi|RUS*  d              8       17        14
+     1.11  the|CO|ro|NA|vi|RUS*|is|MORE|con|TA|gious|THAN*|the|SUN          e              7       14         6
+     1.12  but|LESS.HOT*|than.the|SUN                                       e              2        6         3
+
+
+estimated schema
+----------
+meter: Iambic
+feet: Complex (5-5-4-6-7-2)
+syllables: Complex (8-10-8-12-12-6)
+rhyme: Sestet B (ababcc)
