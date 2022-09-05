@@ -1,0 +1,14 @@
+  (#s,#l)  parse                                           rhyme      #feet    #syll    #parse
+---------  ----------------------------------------------  -------  -------  -------  --------
+      1.1  the|GO|vern|MENT*|that|TAX|col|LEC|tor          -              4        9         3
+      1.2  MADE|the|DIS.CO|very|POS|si|BLE*                -              4        8         3
+      1.3  and.the|GO|vern|MENT*|the.one|THAT|pays*        -              3        9         6
+      1.4  SPENT.70*|,.00*|0|,000|TO*|de|VE|lop.the*|DRUG  -              5       12         6
+
+
+estimated schema
+----------
+meter: Iambic
+feet: Complex (4-4-3-5)
+syllables: Complex (10-8-10-12)
+rhyme: Couplet (aa)

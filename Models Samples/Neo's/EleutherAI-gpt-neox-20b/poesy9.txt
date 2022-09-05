@@ -1,0 +1,26 @@
+  (#s,#l)  parse                                       rhyme      #feet    #syll    #parse
+---------  ------------------------------------------  -------  -------  -------  --------
+      1.1  in|EAR|ly.oc*|TO|ber                        -              2        6         5
+      1.2  GOV.NEW*|som.was*|SEEN|on.the|NEWS          -              3        8        10
+      1.3  HE|has|GUIL|lain|BAR|re|SYN|drome*          -              4        8         4
+      1.4  CAUSED|by.the|CO|vid|1|9|SHOT               -              4        8         1
+
+      2.1  he|CAN|celled.his*|IN|ter|NA|tio.nal*|TRIP  -              4       10         6
+      2.2  and|DIDNDIDNT.GO*|out.in|PU|blic            f              2        7         3
+      2.3  un|TIL|he.was|SEEN|in|PU|blic               f              3        8         1
+      2.4  CAU|sing.a*|STIR                            -              2        4         2
+
+      3.1  GOV.NEWSOMNEW*|soms|SPO|kes.person*|SAID    h              3        7        10
+      3.2  he|DIDNDIDNT|have|AN*|a|DVERSE|reac|TI|on   -              4        9         5
+      3.3  to.the|CO|vid|1|9|SHOT                      h              3        7         1
+
+      4.1  this.was|NOT|a|CASE                         -              2        5         1
+      4.2  of|GUIL|lain|BARRE|or|BELLS.PAL*|sy         -              3        8         3
+
+
+estimated schema
+----------
+meter: Trochaic
+feet: Trimeter
+syllables: 8
+rhyme: Quatrain And Triplet (ababccc)

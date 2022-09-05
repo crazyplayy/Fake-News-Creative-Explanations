@@ -1,0 +1,17 @@
+  (#s,#l)  parse                                                                       rhyme      #feet    #syll    #parse
+---------  --------------------------------------------------------------------------  -------  -------  -------  --------
+      1.1  he|DOESNDOE|snt|HAVE.GUIL*|lain|BAR|re                                      -              3        8         8
+      1.2  HEHES|just|BE|ing.a*|DRA|ma|QUEEN                                           -              4        8         3
+
+      2.1  HEHES|just|BE|ing.a*|DRA|ma|QUEEN                                           -              4        8         3
+
+      3.1  GA|vin|NEW|som|IS|out.of|SIGHT.LI*|kely.be*|CAUSE|he|HAS|bellbells*|PAL|sy  -              7       17         9
+      3.2  OR*|be|CAUSE|hes*|HAD|a|CO|vid|1|9|BOOS|ter|SHOT                            ?              7       13         4
+
+
+estimated schema
+----------
+meter: Trochaic
+feet: Complex (3-4-4-7-7)
+syllables: Complex (8-8-8-18-14)
+rhyme: Couplet (aa)

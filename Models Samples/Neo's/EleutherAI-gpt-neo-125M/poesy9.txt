@@ -1,0 +1,15 @@
+  (#s,#l)  parse                                                                                                                              rhyme      #feet    #syll    #parse
+---------  ---------------------------------------------------------------------------------------------------------------------------------  -------  -------  -------  --------
+      1.1  the|STATE|is|SEN|ding.out*|CO|vid|1|9|MASKS|and.pan*|DE|mic|REA|dy|TO*|wear*|MASKS|to|PEO|ple|WHO|have|NO.ME*|di|CAL*|in|SU|rance  -             14       32        37
+
+      2.1  the|FE|deral|GO|vern.ment*|HAS|al|REA|dy|SENT|out|MASKS                                                                            -              6       13         2
+      2.2  but|THEY|will|NOT|be|SENT|to.the|SICK                                                                                              -              4        9         1
+      2.3  the|CO|vid|1|9|VAC.CINE*|is|NOT|a|CURE                                                                                             ?              5       11         3
+
+
+estimated schema
+----------
+meter: Iambic
+feet: Complex (14-6-4-5)
+syllables: Complex (32-14-10-12)
+rhyme: Triplet (aaa)

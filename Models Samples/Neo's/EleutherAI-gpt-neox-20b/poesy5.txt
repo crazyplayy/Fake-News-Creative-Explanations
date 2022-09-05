@@ -1,0 +1,32 @@
+  (#s,#l)  parse                                     rhyme      #feet    #syll    #parse
+---------  ----------------------------------------  -------  -------  -------  --------
+      1.1  all|THINGS|are.not|E|qual                 -              2        6         1
+      1.2  BOOS|ters.are*|NOT|the|SAME               -              3        6         2
+      1.3  SOME|are|USED                             c              2        3         2
+      1.4  SOME|are.not|USED                         c              2        4         1
+      1.5  SOME|are.ef*|FEC|tive                     -              2        5         6
+      1.6  SOME|are|NOT                              -              2        3         3
+
+      2.1  the|HIGHER|in|FEC|tion|RATES              f              3        6         1
+      2.2  the|SPREAD                                g              1        2         1
+      2.3  HOS|pi|TA*|li|ZA|tion.and*|DEATH          g              4        8         2
+      2.4  a|MONG|un|VAC|ci|NA|ted|PEO|ple           -              4        9         1
+      2.5  PROVE|the|EF|fec|TI*|veness               f              3        6         2
+      2.6  of|CO|vid|1|9|VAC.CINES*                  -              3        7         3
+
+      3.1  THE*|ef|FEC|ti|VENESS*|of                 -              3        6         6
+      3.2  CO|vid|1|9|VAC.CINES*                     -              3        6         3
+      3.3  is|SHOWN|in.the|HIGHER|in|FEC|tion|RATES  -              4        9         1
+      3.4  SPREAD.HOS*|pi|TA*|li|ZA|tion.and*|DEATH  m              4        9         4
+      3.5  a|MONG|un|VAC|ci|NA|ted|PEO|ple           n              4        9         1
+      3.6  ITITS.COM*|mon|TO*|give*|BOOS|ters        -              3        7         7
+      3.7  TO*|main|TAIN|or|LENGT|hen                m              3        6         2
+      3.8  the                                       n              0        1         2
+
+
+estimated schema
+----------
+meter: Trochaic
+feet: Complex (3-3-3-2)
+syllables: Complex (6-6-6-4)
+rhyme: Couplet (aa)
