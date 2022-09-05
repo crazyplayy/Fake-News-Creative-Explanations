@@ -1,0 +1,14 @@
+  (#s,#l)  parse                                                                                     rhyme      #feet    #syll    #parse
+---------  ----------------------------------------------------------------------------------------  -------  -------  -------  --------
+      1.1  THE*|in|GRE|die|NTS*|of|CO|vid|1|9|VAC.CINES*|are|PU|blished|AND*|do|NOT|in|CLUDE|h*|I.V  a             11       23        48
+      1.2  the|VAC.CINE*|in|GRE|dients|DO|not|CHANGE|be|TWEEN.DO*|ses                                b              5       13         6
+      1.3  the|VAC.CINE*|in|GRE|die|NTS*|are|PU|blished|AND*|do|NOT|in|CLUDE|h*|I.V                  a              8       18        32
+      1.4  the|VAC.CINE*|in|GRE|die|NTS*|are|PU|blished.and*|DO|not|CHANGE|be|TWEEN.DO*|ses          b              7       18        36
+
+
+estimated schema
+----------
+meter: Trochaic
+feet: Complex (11-5-8-7)
+syllables: Complex (24-14-18-18)
+rhyme: Alternating A (abab)
