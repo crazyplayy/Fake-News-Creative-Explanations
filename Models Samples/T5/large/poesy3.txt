@@ -1,0 +1,11 @@
+  (#s,#l)  parse                                 rhyme      #feet    #syll    #parse
+---------  ------------------------------------  -------  -------  -------  --------
+      1.1  ARE*|on.the|RISE|to.pre*|VENT|h*|I.V  ?              4       10        10
+
+
+estimated schema
+----------
+meter: Dactylic
+feet: Tetrameter
+syllables: 10
+rhyme:  
