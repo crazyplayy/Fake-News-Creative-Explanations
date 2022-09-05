@@ -1,0 +1,17 @@
+  (#s,#l)  parse                                                rhyme      #feet    #syll    #parse
+---------  ---------------------------------------------------  -------  -------  -------  --------
+      1.1  the|BOOS|ter|SHOT|is.a|HOAX|but.the|VI|rus|IS|real*  ?              5       13         4
+
+      2.1  the|VI|rus|IS.REAL*|but.the|BOOS|ter|SHOT|is.a|HOAX  ?              5       13         3
+
+      3.1  the|VI|rus|IS.REAL*|but.the|BOOS|ter|SHOT|is.a|HOAX  ?              5       13         3
+
+      4.1  the|VI|rus|IS.REAL*|but.the|BOOS|ter|SHOT|is.a|HOAX  ?              5       13         3
+
+
+estimated schema
+----------
+meter: Dactylic
+feet: Pentameter
+syllables: 14
+rhyme:  

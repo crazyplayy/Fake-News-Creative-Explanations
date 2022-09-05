@@ -1,0 +1,17 @@
+  (#s,#l)  parse                                                                             rhyme      #feet    #syll    #parse
+---------  --------------------------------------------------------------------------------  -------  -------  -------  --------
+      1.1  the|GO|vern|MENT*|spent*|70|,.00*|0|,000|TO*|de|VE|lop.this*|DRUG|rem|DE|si|V|ir  ?              9       21        16
+
+      2.1  the|GO|vern|MENT*|spent*|70|,.00*|0|,000|TO*|de|VE|lop.this*|DRUG|rem|DE|si|V|ir  ?              9       21        16
+
+      3.1  the|GO|vern|MENT*|spent*|70|,.00*|0|,000|TO*|de|VE|lop.this*|DRUG|rem|DE|si|V|ir  ?              9       21        16
+
+      4.1  the|GO|vern|MENT*|spent*|70|,.00*|0|,000|TO*|de|VE|lop.this*|DRUG|rem|DE|si|V|ir  ?              9       21        16
+
+
+estimated schema
+----------
+meter: Iambic
+feet: Enneameter
+syllables: 22
+rhyme:  
