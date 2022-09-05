@@ -1,0 +1,11 @@
+GPT-3 DaVinci
+
+Trochaic Tetrameter: 1 qat
+Iambic Complex: 2 - 1 a 1 a
+Iambic Tetrameter: 2 - 1 c 1 a
+Trochaic Complex: 5 - 1 c 1 e 1 t 1 c 1 a
+Alternating: 4
+Couplet: 3
+Enclosed: 1
+Triplet: 1
+Quatrain And Triplet: 1

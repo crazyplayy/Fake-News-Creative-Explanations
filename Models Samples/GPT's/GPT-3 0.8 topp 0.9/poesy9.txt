@@ -1,0 +1,24 @@
+  (#s,#l)  parse                                                    rhyme      #feet    #syll    #parse
+---------  -------------------------------------------------------  -------  -------  -------  --------
+      1.1  GA|vin|NEW|som|OUT*|of|SIGHT                             -              4        7         1
+      1.2  LI|kely.be*|CAUSE|he.has|GUIL|lain|BAR|re|SYN|drome*     b              5       12         4
+      1.3  THATS.QUITE*|the|CLAIM|to|MAKE                           -              3        6         2
+      1.4  SOUNDS|more|LIKE|a|NIGH.TMARE*|than.a|DREAM              b              4        9         3
+
+      2.1  un|NAMED.SOUR*|ces.and*|SPE|cu|LA|tion                   d              3        9         3
+      2.2  IS|what.this|AR|ti|CLE*|is|BASED|on                      d              4        9         4
+      2.3  con|JEC|ture|AND*|no*|ME|di.cal*|EX|pla|NA|tion          d              5       12         7
+      2.4  just|TRY|ing|TO*|cause*|SOME|com|MO|tion                 d              4        9         6
+
+      3.1  NEW|soms|SPO|kes.person*|SAID                            -              3        6         3
+      3.2  THAT|the|GO|ver.nor*|DIDNT|have|AN*|a|DVERSE|reac|TI|on  f              6       13        18
+      3.3  GUIL|lain|BAR|re|SYN|drome*                              -              3        6         2
+      3.4  i|THINK|not|JUST|a|CASE|of|FIC|tion                      f              4        9         1
+
+
+estimated schema
+----------
+meter: Iambic
+feet: Complex (3-5-3-4)
+syllables: Complex (8-12-6-10)
+rhyme: Alternating B (abcb)

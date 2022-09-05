@@ -1,0 +1,52 @@
+A new challenger approaches Forest
+Claims are swift to ensnare
+But, this time, it’s true.
+Gavin didn't have a vaccine card
+but, it wasn't what your're thinking,
+it was more of a pity party.
+
+He didn't have a vaccine card,
+but, like potions from witchcraft,
+there's no evidence of their results.
+
+Newsom didn't have a vaccine card,
+but, like potions from witchcraft,
+there's no evidence of their results.
+
+<|endoftext|>
+
+Claim:  Says Sen. Thom Tillis doesn’t think restaurant workers should have to wash their hands.
+Label: false
+Summary Explanation:
+A new television ad by Majority Forward PAC says U.S. Sen. Thom Tillis (R-NC) “doesn’t think restaurant workers should have to wash their hands.”
+The ad doesn't provide context for the comments, which Tillis made in 2015.
+Tillis was making a point about regulations, not offering his opinion on whether workers should wash their hands.
+
+Poem:
+A simple twist of words
+Not something we should look towards
+Warps the intentions
+With no consistent mentions
+
+Tillis gave his toughts
+without any knots
+He would be fine in the morning
+wit at least a proper warning
+
+<|endoftext|>
+
+Claim:  Photo that shows COVID-19 test swabs labeled positive and negative proves that the tests are fixed.
+Label: false
+Summary Explanation:
+An image that shows a COVID-19 testing kit with control swabs labeled “positive” and “negative” is legitimate, but it doesn’t prove that COVID-19 tests are pre-loaded with a result. The swabs are used for quality control to make sure the test is working correctly, not for patient testing.
+Control materials are routinely included in medical testing kits to ensure that the tests are performing as expected and recording the correct results.
+
+Poem:
+All of these people with their misinformation
+Must be the truth if its an image on the screen
+Affecting our generation
+They should stop making a scene
+
+Professionals work hard
+Safeguarding the test quality
+So you dont have to be

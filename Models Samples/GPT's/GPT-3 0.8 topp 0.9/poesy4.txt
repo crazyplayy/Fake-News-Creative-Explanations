@@ -1,0 +1,16 @@
+  (#s,#l)  parse                                              rhyme      #feet    #syll    #parse
+---------  -------------------------------------------------  -------  -------  -------  --------
+      1.1  CHIL|dren|MAKE|up|7|..*|3|of|CA|ses|IN|the.us      a              6       14         2
+      1.2  and|LESS|than|0|.|*||1|of|DEATHS                   a              5       10         3
+      1.3  THEY|were|NOT|ex|POSED|to.the|VI|rus.as*|MUCH      a              5       11         8
+      1.4  be|CAUSE.SCHOOLS*|were|SHUT|in|MARCH|with.a|HUSH   a              4       10         4
+      1.5  NOW|that|RE|search|SHOWS|they.can|CATCH|it         -              4        9         1
+      1.6  we|SEE|that.this|CLAIM|was|NOT|hing.but*|FIC|tion  -              4       11         2
+
+
+estimated schema
+----------
+meter: Trochaic
+feet: Complex (6-5-5-4-4-4)
+syllables: Complex (14-10-12-10-10-12)
+rhyme: Couplet (aa)

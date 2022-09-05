@@ -1,0 +1,25 @@
+!! Time limit (30s) elapsed in trying to parse line: He is the lead author on the newly released paper on the drug Remdesivir that has allowed researchers to demonstrate it has the ability to fight the deadly Ebola virus
+!! Time limit (30s) elapsed in trying to parse line: Oh is one of six scientists involved in the collaboration along with Dr Stephanie Seneff Dr Claire Kirkland Dr Jason Stites Dr Sara Ridley and Dr Daniela Schoenberg
+!! Time limit (30s) elapsed in trying to parse line: In March a group of researchers from Gilead the company that developed Remdesivir were in Liberia to conduct a clinical trial of the drug in people suffering from Ebola
+!! Time limit (30s) elapsed in trying to parse line: That trial was not included in the paper referenced above but researchers did note that some of the team had been involved in the earlier trials for the Ebola virus
+!! Time limit (30s) elapsed in trying to parse line: In the IFN γ research paper Oh explains that he and his colleagues have been trying to develop a non reversible drug to treat Ebola
+
+FT:
+
+  (#s,#l)  parse                                               rhyme      #feet    #syll    #parse
+---------  --------------------------------------------------  -------  -------  -------  --------
+      1.1  the|MI|li|TA|ry.at*|TACKS|are.a|NE|ces|SA|ry|E|vil  -              6       15         2
+      1.2  but.the|VI|rus|STILL|takes*|LIVES                   b              3        7         1
+      1.3  to|STOP|you|FROM*|in|FEC|ting|YOUR*|loved*|ONES     b              5       10         4
+      1.4  the|GO|vern|MENT*|pre|PARES|the|VAC.CINE*           -              4        9         3
+
+      2.1  THATS|the|TRUE                                      -              2        3         1
+      2.2  and|NOT|hing|BUT*|stu|PI|di.ty*|FLOWS|from|IT       -              5       11         4
+
+
+estimated schema
+----------
+meter: Iambic
+feet: Complex (6-3-5-4-2-5)
+syllables: Complex (16-8-10-10-4-12)
+rhyme: Triplet (aaa)
