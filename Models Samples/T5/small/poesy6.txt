@@ -1,0 +1,11 @@
+  (#s,#l)  parse                                                                                               rhyme      #feet    #syll    #parse
+---------  --------------------------------------------------------------------------------------------------  -------  -------  -------  --------
+      1.1  THAT|the|99|year*|OLD|was.ar*|RES|ted.be*|CAUSE|she|DIDNDIDNT|have.a|VAC|cine*|CARD|in.the|MU|seum  ?              9       22        32
+
+
+estimated schema
+----------
+meter: Anapestic
+feet: Enneameter
+syllables: 22
+rhyme:  

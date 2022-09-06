@@ -1,0 +1,11 @@
+  (#s,#l)  parse                                                                                        rhyme      #feet    #syll    #parse
+---------  -------------------------------------------------------------------------------------------  -------  -------  -------  --------
+      1.1  u|KRAINE|was.the|NO|11*|DO|nor.to*|HIL|la.ry*|CLIN|ton|WHEN|she.was|RUNNING|for|PRE|si|DENT  ?              9       22         4
+
+
+estimated schema
+----------
+meter: Anapestic
+feet: Enneameter
+syllables: 22
+rhyme:  
