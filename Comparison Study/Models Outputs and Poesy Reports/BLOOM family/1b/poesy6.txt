@@ -1,0 +1,17 @@
+  (#s,#l)  parse                                                                   rhyme      #feet    #syll    #parse
+---------  ----------------------------------------------------------------------  -------  -------  -------  --------
+      1.1  the|DEATH|rate*|IN|chi|CA.GO|is|DOWN*|but.the|NUM|ber.of*|CA|ses|IS|up  ?              7       18        10
+
+      2.1  the|DEATH|rate*|IN|chi|CA.GO|is|DOWN*|but.the|NUM|ber.of*|CA|ses|IS|up  ?              7       18        10
+
+      3.1  the|DEATH|rate*|IN|chi|CA.GO|is|DOWN*|but.the|NUM|ber.of*|CA|ses|IS|up  ?              7       18        10
+
+      4.1  the|DEATH|rate*|IN|chi|CA.GO|is|DOWN*|but.the|NUM|ber.of*|CA|ses|IS|up  ?              7       18        10
+
+
+estimated schema
+----------
+meter: Iambic
+feet: Heptameter
+syllables: 18
+rhyme: 

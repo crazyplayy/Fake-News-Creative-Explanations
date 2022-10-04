@@ -1,0 +1,17 @@
+  (#s,#l)  parse                                                                                                rhyme      #feet    #syll    #parse
+---------  ---------------------------------------------------------------------------------------------------  -------  -------  -------  --------
+      1.1  the|MAN|in.the|MUGS|hot|IS|res|PON|si|BLE*|for|LIGH|ting|3||2|of.the|WIL.DFIRES*|on.the|WEST|coast*  ?             10       25         4
+
+      2.1  the|MAN|in.the|PHO|to*|IS|res|PON|si|BLE*|for|LIGH|ting|3||2|of.the|WIL.DFIRES*|on.the|WEST|coast*   ?             10       25        10
+
+      3.1  the|MAN|in.the|PHO|to*|IS|res|PON|si|BLE*|for|LIGH|ting|3||2|of.the|WIL.DFIRES*|on.the|WEST|coast*   ?             10       25        10
+
+      4.1  the|MAN|in.the|PHO|to*|IS|res|PON|si|BLE*|for|LIGH|ting|3||2|of.the|WIL.DFIRES*|on.the|WEST|coast*   ?             10       25        10
+
+
+estimated schema
+----------
+meter: Trochaic
+feet: Decameter
+syllables: 26
+rhyme:

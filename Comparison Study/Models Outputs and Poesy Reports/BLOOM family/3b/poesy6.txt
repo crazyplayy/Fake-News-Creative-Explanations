@@ -1,0 +1,14 @@
+  (#s,#l)  parse                           rhyme      #feet    #syll    #parse
+---------  ------------------------------  -------  -------  -------  --------
+      1.1  the|VI|rus|IS|a|KIL|ler         a              3        7         1
+      1.2  but.the|DEATH.RATE*|is|RI|sing  -              2        7         3
+      1.3  chi|CA.GO|is.a|CI|ty.of*|DEATH  -              3        9         2
+      1.4  but.the|VI|rus|IS|a|KIL|ler     a              3        8         1
+
+
+estimated schema
+----------
+meter: Iambic
+feet: Complex (3-2-3-3)
+syllables: 8
+rhyme: Enclosed Rhyme (abba)

@@ -1,0 +1,2 @@
+!! Time limit (30s) elapsed in trying to parse line: The booster is a vaccine that is injected into the body to increase the immune system’s response to the vaccine
+!! Time limit (30s) elapsed in trying to parse line: It is a vaccine that is injected into the body to increase the immune system’s response to the vaccine
