@@ -1,0 +1,11 @@
+  (#s,#l)  parse                                             rhyme      #feet    #syll    #parse
+---------  ------------------------------------------------  -------  -------  -------  --------
+      1.1  a|PO|em|FOR*|a|GI|ven|CLAIM|and.the|LA|bel|LY|ly  ?              6       14         2
+
+
+estimated schema
+----------
+meter: Iambic
+feet: Hexameter
+syllables: 14
+rhyme:  

@@ -1,0 +1,12 @@
+  (#s,#l)  parse                                                                   rhyme      #feet    #syll    #parse
+---------  ----------------------------------------------------------------------  -------  -------  -------  --------
+      1.1  C.O2|our|LIT|tle|FRIE|ne|M*|y                                           a              4        9         4
+      1.2  YOU*|and.the|OT|her|GREEN|house*|GA|ses|NEED|to|LEAVE.DES*|pe|RA*|tely  a              7       16        20
+
+
+estimated schema
+----------
+meter: Iambic
+feet: Alternating (tetrameter-heptameter)
+syllables: Alternating (10-16)
+rhyme: Couplet (aa)
