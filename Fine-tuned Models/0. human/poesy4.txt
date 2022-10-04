@@ -1,0 +1,24 @@
+  (#s,#l)  parse                                              rhyme      #feet    #syll    #parse
+---------  -------------------------------------------------  -------  -------  -------  --------
+      1.1  an|E|vil|MEA|ning.or*|NOT                          a              3        7         2
+      1.2  CO|vid|STILL|takes*|LIVES                          -              3        5         1
+      1.3  A|nyo|NE.COULDNT*|us|TAUGHT                        a              3        6         3
+      1.4  how|TO*|re|DUCE.PEO*|ples|SA|cri|FI|ces            -              4       10         2
+
+      2.1  DI|voc|IS.NOT*|con|TAINED|in|HE|brew               c              4        9         4
+      2.2  BE|ing|DIB|buk|THE*|most|SI|mi.lar*|WORD           d              5       10         8
+      2.3  THEY|are|DI|ferent|THAT´THAT´S|the|TRUE            c              4        7         2
+      2.4  and|CON|tra|DICT.EX*|perts|IS|an.a*|BSURDE         d              4       10        10
+
+      3.1  20.1*|.*||9|WAS*|the|YEAR|of|CO|vid.dis*|CO|ver    e              6       15         6
+      3.2  and|CO|vid|DOESN´DOE|sn´t|MEAN.ON*|ly.co*|RO|na    -              4       11         6
+      3.3  IT|means*|VI|rus|AND*|di|SEASE.UN*|der|IS.CO*|ver  e              5       12        11
+      3.4  and|E|ve|RYONE.WIS*|hes.this*|ALL|to.be|O|ver      e              4       12         4
+
+
+estimated schema
+----------
+meter: Iambic
+feet: Tetrameter
+syllables: Complex (10-10-8-10)
+rhyme: Alternating A (abab)
