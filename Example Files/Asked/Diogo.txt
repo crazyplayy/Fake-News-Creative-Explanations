@@ -1,0 +1,68 @@
+
+875
+Claim:  The CDC issued its first warning on Jan 8. Trump held campaign rallies on Jan 9, Jan 14, Jan 28, Jan 30, Feb 10, Feb 19, Feb 20, Feb 21, & Feb 28. He golfed on Jan 18, Jan 19, Feb 1, Feb 15, Mar 7, Mar 8. The first time he admitted the coronavirus might be a problem was Mar 13.  
+Label: half-true 
+Source: https://www.politifact.com/factchecks/2020/apr/09/facebook-posts/viral-post-compares-dates-when-trump-admitted-coro/ 
+ 
+Summary Explanation: 
+ Those golf and rally dates are correct
+The CDC’s Jan. 8 coronavirus “warning” says the threat to Americans was low and didn’t establish person-to-person transmission
+Trump took action against the spread of COVID-19 before March 13
+ 
+Poem: 
+
+ --------------------- 
+
+595
+Claim:  Canada has just criminalized all CV19 measures requiring masks, distancing, quarantining & vaccines.  
+Label: false 
+Source: https://www.politifact.com/factchecks/2020/sep/11/facebook-posts/no-canada-did-not-criminalize-covid-19-restriction/ 
+ 
+Summary Explanation: 
+  The Canadian government has not enacted a law that criminalizes COVID-19 restrictions or prevents enforcement of those guidelines.
+ There are places in Canada where you can be fined for disobeying COVID-19 public health orders. 
+ The post appears to be referring to a proclamation issued by a “council of citizens’ assemblies.”
+ 
+Poem: 
+
+ --------------------- 
+
+717
+Claim:  Says President Donald Trump is trying to make $451 billion in Medicare cuts in the middle of a deadly pandemic.  
+Label: barely-true 
+Source: https://www.politifact.com/factchecks/2020/may/29/priorities-usa-action/democratic-super-pac-uses-familiar-political-play-/ 
+ 
+Summary Explanation: 
+ The timeline of events doesn’t support this statement.
+The $451 billion figure is accurate, but presented in a misleading way. It is not a direct program cut to beneficiaries. Instead, it is the result of lowering payments to providers. It also reflects a 10-year budget window.
+ 
+Poem: 
+
+ --------------------- 
+
+447
+Claim:  Nobody’s health is at risk right now from PFAS contamination, as long as they are receiving bottled drinking water  
+Label: false 
+Source: https://www.politifact.com/factchecks/2021/feb/19/scott-manley/no-bottled-water-doesnt-solve-all-problems-residen/ 
+ 
+Summary Explanation: 
+ Many households within PFAS contamination areas are receiving bottled water to reduce their exposure to the chemicals
+But water isn’t the only way people can be exposed to the chemicals, they can also be consumed through meat and produce harvested within the contaminated area
+ 
+Poem: 
+
+ --------------------- 
+
+319
+Claim:  Study: hydroxychloroquine can boost COVID-19 survival chances nearly 200%.  
+Label: barely-true 
+Source: https://www.politifact.com/factchecks/2021/jun/14/facebook-posts/post-overstates-studys-200-finding-hydroxychloroqu/ 
+ 
+Summary Explanation: 
+ A study says a certain dosing of hydroxychloroquine and azithromycin “improves survival by nearly 200%” among hospitalized COVID-19 patients who received invasive mechanical ventilation.
+The study is posted on a website that publishes “preprints” — studies that “have not been finalized by authors, might contain errors and report information that has not yet been accepted or endorsed in any way by the scientific or medical community.”
+Experts called the study poorly designed and caution against drawing conclusions about cause and effect.
+ 
+Poem: 
+
+ --------------------- 

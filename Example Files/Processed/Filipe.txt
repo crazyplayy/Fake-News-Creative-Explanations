@@ -1,0 +1,88 @@
+
+914
+Claim:  Says truck drivers are being turned away from fast-food restaurants during the COVID-19 pandemic.  
+Label: mostly-true 
+Source: https://www.politifact.com/factchecks/2020/mar/26/facebook-posts/some-fast-food-chains-turn-away-truckers-drive-thr/ 
+ 
+Summary Explanation: 
+ Truck drivers are having issues getting meals at some fast-food chains with shuttered dining rooms. Their rigs can’t fit in drive-thru lanes and they aren’t allowed to walk up and order at the window.
+McDonald’s responded to complaints and created a curbside trucker ordering service at some of its locations.
+Other fast-food chains haven’t yet implemented a solution.
+ 
+Poem: 
+
+Truck drivers can't go and order some fries
+but it's not what your're thinking, at all!
+It's just that the trucks are too big in size
+and the drive-through windows are just too small!
+
+But McDonalds is granting truckers a wish:
+They are bulding taller windows
+for the truckers to enjoy their filet-o-fish.
+A solution is coming, as it shows.
+
+ --------------------- 
+
+283
+Claim:  Says Joe Biden and Kamala Harris distrusted COVID-19 vaccines.  
+Label: false 
+Source: https://www.politifact.com/factchecks/2021/jul/23/tiktok-posts/biden-harris-doubted-trump-covid-19-vaccines-not-v/ 
+ 
+Summary Explanation: 
+ Video clips appear to show Joe Biden and Kamala Harris raising doubts about COVID-19 vaccines, but they were raising concerns about the rollout by then-President Donald Trump, not the vaccines themselves.
+ 
+Poem: 
+
+Joe and Kamala were both being
+About vaccines not being good
+But no, they actually were disagreeing
+With where Trump once stood.
+
+ --------------------- 
+
+281
+Claim:  It makes no sense to require vaccinations for the previously infected.  
+Label: false 
+Source: https://www.politifact.com/factchecks/2021/jul/27/facebook-posts/heres-why-experts-say-people-who-had-covid-19-shou/ 
+ 
+Summary Explanation: 
+ People who have had COVID-19 do have some level of immunity; however, the CDC recommends vaccination because it provides better protection.
+Naturally acquired immunity may not be as effective against variant strains of the virus that cause COVID-19.
+ 
+Poem: 
+
+
+"if you had it, you don't need the vaccine",
+people say. But the CDC, still protective,
+states natural immunity is not that effective
+against other strains that cause COVID-19
+ --------------------- 
+
+525
+Claim:  In 2019, Republicans stripped $40 million from the budget for lead pipe replacement - because they thought it helped MKE too much.  
+Label: mostly-true 
+Source: https://www.politifact.com/factchecks/2020/dec/04/chris-larson/yes-gop-did-oppose-40-million-lead-pipe-replacemen/ 
+ 
+Summary Explanation: 
+ Gov. Tony Evers proposed $40 million in bonding that his administration estimated would be enough to replace 9 percent of the state's 170,000 lead service lines still in use.
+One GOP legislative leader said replacing lead service lines would be too expensive and called for other options, including using drinking water filters in homes.
+Another GOP lawmaker called for locally funded efforts because “a vast majority” of the funding would go to Milwaukee.
+But the Republican lawmakers also cited other reasons for opposing the program.
+ 
+Poem: 
+
+ --------------------- 
+
+17
+Claim:  COVID-19 vaccines caused a 40% increase in deaths identified a life insurance company.  
+Label: false 
+Source: https://www.politifact.com/factchecks/2022/feb/11/blog-posting/no-covid-19-vaccines-arent-responsible-increase-de/ 
+ 
+Summary Explanation: 
+ OneAmerica CEO Scott Davison said life insurance industry data indicates death rates among working-age people were up 40% compared to pre-pandemic rates.
+Social media users have suggested COVID-19 vaccines, rather than the illness itself, are responsible for the increase in deaths.
+Research indicates that COVID-19 is likely responsible for the increase; there is no evidence to suggest the vaccines are to blame.
+ 
+Poem: 
+
+ --------------------- 

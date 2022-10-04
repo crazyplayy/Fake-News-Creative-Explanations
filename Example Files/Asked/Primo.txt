@@ -1,0 +1,68 @@
+
+837
+Claim:  Herd immunity is probably why California has far fewer COVID-19 deaths than New York.  
+Label: false 
+Source: https://www.politifact.com/factchecks/2020/apr/21/facebook-posts/herd-immunity-curbed-covid-deaths-no/ 
+ 
+Summary Explanation: 
+ Once a high percentage of people have been infected with a virus or vaccinated — in other words, herd immunity is achieved — spread of the virus can be stopped or greatly slowed.
+Despite having a population twice that of New York State, California has experienced only a fraction of the number of COVID-19 deaths.
+There’s no evidence herd immunity has limited coronavirus deaths in California, which adopted stay-at-home measures before New York did.
+ 
+Poem: 
+
+ --------------------- 
+
+18
+Claim:  COVID spelled backward is divoc which means possession of the evil spirit in Hebrew.  
+Label: false 
+Source: https://www.politifact.com/factchecks/2022/feb/11/facebook-posts/covid-spelled-backward-divoc-which-means-possessio/ 
+ 
+Summary Explanation: 
+ “Divoc” is not a Hebrew word.
+The closest existing word in the language is “dibbuk,” which means evil possession, but the two are not the same, linguistic experts said.
+COVID-19 is an abbreviation of "coronavirus disease 2019.” "CO" stands for "corona," "VI" stands for "virus" and "D" stands for "disease." The number 19 reflects the year it was identified — 2019.
+ 
+Poem: 
+
+ --------------------- 
+
+86
+Claim:  WHO Director-General: The vaccines are being used to kill children.  
+Label: false 
+Source: https://www.politifact.com/factchecks/2021/dec/23/tweets/twitter-post-misconstrues-what-who-director-genera/ 
+ 
+Summary Explanation: 
+ World Health Organization Director-General Dr. Tedros Adhanom Ghebreyesus stumbled over his words, first mispronouncing the word “children” with “kil/cil.” He then corrected himself and pronounced the word “children.” That led some people to claim he said “kill children.”
+WHO supports the use of vaccines for children and says that there is no evidence that the COVID-19 vaccine has killed children.
+ 
+Poem: 
+
+ --------------------- 
+
+924
+Claim:  Says it was unquestionably not within his legal authority to postpone Illinois’ primary election changing the date or shifting to vote- -mail.  
+Label: mostly-true 
+Source: https://www.politifact.com/factchecks/2020/mar/24/jb-pritzker/did-pritzker-lack-authority-postpone-illinois-prim/ 
+ 
+Summary Explanation: 
+ It’s difficult to know for sure that Pritzker could not have done anything to delay the March 17 election.
+But experts told us the governor spoke correctly in describing the limits of his powers under existing law.
+ 
+Poem: 
+
+ --------------------- 
+
+640
+Claim:  The Trump administration has had zero unfulfilled equipment and supply requests from state governors.  
+Label: false 
+Source: https://www.politifact.com/factchecks/2020/jul/27/sean-hannity/no-trump-administration-hasnt-fulfilled-every-stat/ 
+ 
+Summary Explanation: 
+ Representatives from multiple states said they made requests for coronavirus tests or other critical supplies that the federal government has yet to fill or never filled.
+Representatives from Oregon, North Carolina and Washington described difficulties scaling up testing and getting protective gear for frontline workers.
+Maryland Gov. Larry Hogan, the chair of the National Governors Association, said “it’s obviously not the case” that governors have everything they need.
+ 
+Poem: 
+
+ --------------------- 
