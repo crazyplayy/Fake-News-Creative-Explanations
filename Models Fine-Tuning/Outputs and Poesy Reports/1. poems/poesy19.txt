@@ -1,0 +1,28 @@
+  (#s,#l)  parse                                            rhyme      #feet    #syll    #parse
+---------  -----------------------------------------------  -------  -------  -------  --------
+      1.1  PO|lar|BEARS|may|BE|de|CREA|sing                 -              4        8         1
+      1.2  but.they|STILL|have|OUR*|res|PECT                -              3        7         3
+      1.3  COZ|they.are|STILL.WORTH*|our|CARE               -              3        7         2
+      1.4  and|THEY|are|NOT|yet|IN|their|END                -              4        8         2
+
+      2.1  to|DAY|their|NUM|bers.are*|LOW                   -              3        7         3
+      2.2  DUE|to|CLI|mate|CHANGE|and|OT|her|DOI|ngs        e              5       10         1
+      2.3  COZ|their|ICE|is.their|PLACE                     -              3        6         1
+      2.4  and|ICE|is|WHAT|they.are|LO|sings                e              3        8         2
+
+      3.1  WHALES.ONCE*|were.the|STARS                      g              2        5         2
+      3.2  but.their|NUM|bers.are*|NOW|the|SCARS            g              3        8         4
+      3.3  EX|perts|SAY|that|THEIR*|re|CO|very|ISNT|close*  -              5       10         4
+      3.4  and.their|NUM|bers.will*|NE|ver.re*|CO|ver       -              3       10         5
+      3.5  BIRDS|of|PRAY|are|BE|ing|DOWN*                   j              4        7         2
+      3.6  DUE|to|WIND.TUR*|bines|AND*|their|DOW|nings      j              4        9         3
+      3.7  HO.WE|ver|ITS*|not|TRUE                          -              3        6         3
+      3.8  LIKE|the|OT|her|THINGS|in.this|PO|em             -              4        9         2
+
+
+estimated schema
+----------
+meter: Trochaic
+feet: Complex (4-3-5-4-4-5-3-4)
+syllables: Complex (6-8-8-10-8-10-6-8)
+rhyme: Couplet (aa)

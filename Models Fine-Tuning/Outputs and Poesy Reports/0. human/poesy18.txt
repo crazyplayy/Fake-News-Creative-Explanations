@@ -1,0 +1,21 @@
+  (#s,#l)  parse                                                          rhyme      #feet    #syll    #parse
+---------  -------------------------------------------------------------  -------  -------  -------  --------
+      1.1  THE*|re|PU|bli.can*|NA|tio|NAL*|committeecom|MIT|tees.e*|MAIL  a              6       13        24
+      1.2  SURE|is|FAST|to.por*|TRAY.SI*|mi|LA|ri|TIES*                   b              5       11        12
+      1.3  but|AC|tually.be*|CAMES|a|SNAIL                                a              3        7         2
+      1.4  WHEN|it|COMES|to.dis*|PA|ri|TIES*                              b              4        8        13
+
+      2.1  ALT|hough*|HALF|of|IT|is|TRUE                                  c              4        7         4
+      2.2  BI|den.and*|SAN|ders.are*|NOT|in.the|SAME|crew*                c              4       11         8
+      2.3  they|DIF|fer|ON*|tax*|PO|li|CY*|and|FREE.COL*|lege.tui*|TI|on  d              6       15        25
+      2.4  as|WELL|as|TWO|as*|PECTS|of.their|HEALTH|in|SU|rance|PLAN      d              6       13         3
+      2.5  so.its|WRONG|to|SAY|they|ARE*|on.the|SAME.MIS*|sion            d              4       12         5
+      2.6  WHEN|they.are|TWO.DIF*|ferent|MIN|ded|MAN|end*                 d              4       10         8
+
+
+estimated schema
+----------
+meter: Trochaic
+feet: Complex (6-5-3-4-4-4-6-6-4-4)
+syllables: Complex (14-12-8-8-8-12-16-14-12-10)
+rhyme: Couplet (aa)

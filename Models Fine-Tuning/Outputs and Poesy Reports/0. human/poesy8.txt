@@ -1,0 +1,14 @@
+  (#s,#l)  parse                                                                            rhyme      #feet    #syll    #parse
+---------  -------------------------------------------------------------------------------  -------  -------  -------  --------
+      1.1  BLA|ming.the*|DE|mo|CRATS|for.in*|FLA|tion|IS|a|LOW|blow*                        a              6       14        10
+      1.2  WHEN|in|FLA|tion|STAR|ted.a*|LON|gside*|THE*|pan|DE|mic.a*|BOUT|two*|YEARS|a|GO  a              9       19        25
+      1.3  MAY|be|TIF|fa.ny*|DOESN´DOE|sn´t|KNOW.WHAT*|sup|PLY|and.de*|MAND|means*          b              6       15        32
+      1.4  be|CAUSE|the.more|PEO|ple|TRA|vel.the*|BIG|ger.the*|PRICE|it|SEEMS               b              6       15         4
+
+
+estimated schema
+----------
+meter: Trochaic
+feet: Complex (6-9-6-6)
+syllables: Complex (14-20-16-16)
+rhyme: Couplet (aa)

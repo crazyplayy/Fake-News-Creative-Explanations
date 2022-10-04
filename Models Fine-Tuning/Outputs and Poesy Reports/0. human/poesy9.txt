@@ -1,0 +1,14 @@
+  (#s,#l)  parse                                                    rhyme      #feet    #syll    #parse
+---------  -------------------------------------------------------  -------  -------  -------  --------
+      1.1  if.you|HAD|it.you|DONT|need.the|VAC.CINE*                a              3       10         4
+      1.2  PEO|ple|SAY|but.the|C|d*|C.STILL*|pro|TEC|tive           b              5       12         4
+      1.3  STATES.NA*|tu|RAL*|im|MU|ni.ty*|IS|not|THAT|ef|FEC|tive  b              6       14         8
+      1.4  a|GAINST.OT*|her|STRAINS|that|CAUSE.CO*|vid|1|9          -              4       11         5
+
+
+estimated schema
+----------
+meter: Trochaic
+feet: Complex (3-5-6-4)
+syllables: Complex (10-12-14-12)
+rhyme: Enclosed Rhyme (abba)
