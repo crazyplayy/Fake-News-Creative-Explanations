@@ -1,0 +1,14 @@
+  (#s,#l)  parse                                         rhyme      #feet    #syll    #parse
+---------  --------------------------------------------  -------  -------  -------  --------
+      1.1  TRUMP.SAID*|the|VI|rus.was*|UN|der.con*|TROL  a              4       10        18
+      1.2  but|HE|did.not|DOWN.PLAY*|the|RISK            b              3        8         7
+      1.3  TRUMP.SAID*|the|VI|rus.was*|UN|der.con*|TROL  a              4       10        18
+      1.4  but|HE|did.not|DOWN.PLAY*|the|RISK            b              3        8         7
+
+
+estimated schema
+----------
+meter: Anapestic
+feet: Complex (4-3-4-3)
+syllables: Complex (10-8-10-8)
+rhyme: Alternating A (abab)

@@ -1,0 +1,11 @@
+  (#s,#l)  parse                                                rhyme      #feet    #syll    #parse
+---------  ---------------------------------------------------  -------  -------  -------  --------
+      1.1  the|BOOS|ter|IS|a|VAC.CINE*|that.is|NOT|ef|FEC|tive  ?              5       13         3
+
+
+estimated schema
+----------
+meter: Iambic
+feet: Pentameter
+syllables: 14
+rhyme:  

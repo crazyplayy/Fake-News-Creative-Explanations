@@ -1,0 +1,14 @@
+  (#s,#l)  parse                                          rhyme      #feet    #syll    #parse
+---------  ---------------------------------------------  -------  -------  -------  --------
+      1.1  FLO|ri.da*|IS|the|WORST|new*|YORK|is.the|BEST  a              5       11         2
+      1.2  FLO|ri.da*|IS|the|WORST|new*|YORK|is.the|BEST  a              5       11         2
+      1.3  FLO|ri.da*|IS|the|WORST|new*|YORK|is.the|BEST  a              5       11         2
+      1.4  FLO|ri.da*|IS|the|WORST|new*|YORK|is.the|BEST  a              5       11         2
+
+
+estimated schema
+----------
+meter: Dactylic
+feet: Pentameter
+syllables: 12
+rhyme: Couplet (aa)

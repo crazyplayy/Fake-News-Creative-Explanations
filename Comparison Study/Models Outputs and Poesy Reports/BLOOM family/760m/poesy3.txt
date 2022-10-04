@@ -1,0 +1,11 @@
+  (#s,#l)  parse                                                                                                                                      rhyme      #feet    #syll    #parse
+---------  -----------------------------------------------------------------------------------------------------------------------------------------  -------  -------  -------  --------
+      1.1  the|CO|ro|NA|vi|RUS*|can|LIVE|for|UP*|to|NINE.DAYS*|on|STAIN|less|STEEL|but|IT|can|AL|so.sur*|VIVE|on|GLASS.PLAS*|tic.and*|OT|her|ME|tals  ?             14       33        19
+
+
+estimated schema
+----------
+meter: Iambic
+feet: 14
+syllables: 34
+rhyme:  

@@ -1,0 +1,14 @@
+  (#s,#l)  parse                                                    rhyme      #feet    #syll    #parse
+---------  -------------------------------------------------------  -------  -------  -------  --------
+      1.1  the|CHIL|dren.are*|AL.MOST*|im|MUNE|from|THIS*|di|SEASE  -              5       12         5
+      1.2  but.the|VI|rus|IS.STILL*|there                           b              2        7         3
+      1.3  the|VI|rus|IS.STILL*|there                               b              2        6         3
+      1.4  but.the|CHIL|dren.are*|AL.MOST*|im|MUNE                  -              3        9         5
+
+
+estimated schema
+----------
+meter: Trochaic
+feet: Complex (5-2-2-3)
+syllables: Complex (12-8-6-10)
+rhyme: Enclosed Rhyme (abba)

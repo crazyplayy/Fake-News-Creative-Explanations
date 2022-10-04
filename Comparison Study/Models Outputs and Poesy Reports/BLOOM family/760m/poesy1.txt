@@ -1,0 +1,11 @@
+  (#s,#l)  parse                                                                                                  rhyme      #feet    #syll    #parse
+---------  -----------------------------------------------------------------------------------------------------  -------  -------  -------  --------
+      1.1  the.us|HAS|made*|STRIDES|in.re*|DU|cing|CAR|bon.e*|MIS|sions|THAT.OT*|her|PARTS|of.the|WORLD|have|NOT  ?              9       23        92
+
+
+estimated schema
+----------
+meter: Anapestic
+feet: Enneameter
+syllables: 24
+rhyme:  

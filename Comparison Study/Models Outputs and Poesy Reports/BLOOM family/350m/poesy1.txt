@@ -1,0 +1,16 @@
+  (#s,#l)  parse                                                                 rhyme      #feet    #syll    #parse
+---------  --------------------------------------------------------------------  -------  -------  -------  --------
+      1.1  the.us|HAS.MADE*|a|HUGE|leap*|IN|re|DU|cing.its*|CAR|bon|FOOT|print*  -              6       16        23
+      1.2  but.the|WORLD|is|STILL.WAI*|ting|FOR*|the|US*|to|DO|the|SAME          b              6       14        13
+      1.3  the|WORLD.NEEDS*|to|SEE|the.us|DO|the|SAME                            b              4       10         2
+      1.4  the|WORLD.NEEDS*|to|SEE|the.us|DO|the|SAME                            b              4       10         2
+      1.5  the|WORLD.NEEDS*|to|SEE|the.us|DO|the|SAME                            b              4       10         2
+      1.6  the|WORLD.NEEDS*|to|SEE|the.us|DO|the|SAME                            b              4       10         2
+
+
+estimated schema
+----------
+meter: Trochaic
+feet: Complex (6-6-4-4-4-4)
+syllables: Complex (16-14-10-10-10-10)
+rhyme: Couplet (aa)

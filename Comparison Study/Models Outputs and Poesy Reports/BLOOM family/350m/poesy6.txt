@@ -1,0 +1,14 @@
+  (#s,#l)  parse                                                 rhyme      #feet    #syll    #parse
+---------  ----------------------------------------------------  -------  -------  -------  --------
+      1.1  the|DEATH|rate*|IN|chi|CA.GO|is|NOW|at.a|RE|cord|LOW  a              6       14         2
+      1.2  but.the|NUM|ber.of*|DEATHS|is|STILL|high*             b              3        9         6
+      1.3  the|DEATH|rate*|IN|chi|CA.GO|is|NOW|at.a|RE|cord|LOW  a              6       14         2
+      1.4  but.the|NUM|ber.of*|DEATHS|is|STILL|high*             b              3        9         6
+
+
+estimated schema
+----------
+meter: Iambic
+feet: Complex (6-3-6-3)
+syllables: Complex (14-10-14-10)
+rhyme: Alternating A (abab)

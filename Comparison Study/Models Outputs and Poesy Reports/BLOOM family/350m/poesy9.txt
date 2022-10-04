@@ -1,0 +1,15 @@
+  (#s,#l)  parse                                                     rhyme      #feet    #syll    #parse
+---------  --------------------------------------------------------  -------  -------  -------  --------
+      1.1  the|BOOS|ter|SHOT|was|NOT|a|BOOS|ter|SHOT                 -              5       10         1
+      1.2  IT|was.a|SHOT|to|GET.RID*|of|GUIL|lain|BAR|re|SYN|drome*  -              6       14         8
+
+      2.1  the|BOOS|ter|SHOT|was|NOT|a|BOOS|ter|SHOT                 -              5       10         1
+      2.2  IT|was.a|SHOT|to|GET.RID*|of|GUIL|lain|BAR|re|SYN|drome*  -              6       14         8
+
+
+estimated schema
+----------
+meter: Iambic
+feet: Alternating (pentameter-hexameter)
+syllables: Alternating (10-14)
+rhyme: Couplet (aa)
