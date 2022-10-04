@@ -1,0 +1,19 @@
+  (#s,#l)  parse                                                                                                                                                   rhyme      #feet    #syll    #parse
+---------  ------------------------------------------------------------------------------------------------------------------------------------------------------  -------  -------  -------  --------
+      1.1  we|FACT|checked*                                                                                                                                        -              1        3         2
+      1.2  55|of.the|MOST.QUES*|tio|NA*|ble|CLAIMS                                                                                                                 -              4        9         5
+      1.3  a|BOUT.CO*|vid|1|9                                                                                                                                      -              2        6         2
+
+      2.1  11|there|IS|no*|E|vi|DENCE*|that|SIP|ping|WA|ter|E|very|2|0|MI|nutes|OR*|ex|PO|sing.your*|CLOT|hing|TO*|the|SUN|can|HELP|pre|VENT|the|CO|ro|NA|vi|RUS*  d             19       38        32
+      2.2  22|theretheres*|NO|proof*|THAT|the|CO|ro|NA|vi|RUS*|can|LIVE|for|UP*|to|NINE|days*|ON*|me|TAL|lic|SUR|fa|CES*                                           e             13       25        38
+      2.3  33|a.pre*|LI|mi|NA|ry|STU|dy.sug*|GESTS|it|CAN*|re|MAIN.VIA*|b|LE*|on|STAIN|less|STEEL|for|UP*|to|THREE|days*                                           e             12       27        58
+      2.4  44|of|FI|cials.a*|DVISE.PEO*|ple.to*|WASH|their|HANDS|but.not|E|very|2|0|MI|nutes                                                                       d              8       20         6
+      2.5  55|theretheres*|NO|proof*|THAT|the|CO|ro|NA|vi|RUS*|can|LIVE|for|UP*|to|NINE|days*|ON*|me|TAL|lic|SUR|fa|CES*                                           e             13       25        38
+
+
+estimated schema
+----------
+meter: Trochaic
+feet: Complex (1-4-2-19-13-12-8-13)
+syllables: Complex (4-10-6-38-26-28-20-26)
+rhyme: Couplet (aa)

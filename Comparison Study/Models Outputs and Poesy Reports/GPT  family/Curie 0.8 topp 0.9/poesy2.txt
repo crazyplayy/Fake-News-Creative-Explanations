@@ -1,0 +1,16 @@
+  (#s,#l)  parse                                                                                                                                 rhyme      #feet    #syll    #parse
+---------  ------------------------------------------------------------------------------------------------------------------------------------  -------  -------  -------  --------
+      1.1  this|CLAIM|is|FALSE                                                                                                                   -              2        4         1
+      1.2  there|IS|no*|MAN|in.a|MUGS|hot                                                                                                        -              3        8         3
+      1.3  res|PON|si|BLE*|for|LIGH|ting|3||2|of.the|WEST|coasts*|FI|res                                                                         c              7       16         2
+      1.4  mcglo|V|er|WAS*|ar|RES|ted|IN|ju|LY|20*|1|.*||8                                                                                       -              7       16         2
+      1.5  and.is|CUR|ren|TLY*|in|PRI|son.for*|LIGH|ting|NINE.FI*|res|IN|sout*|HWEST.CA*|li|FOR|nia                                              -              8       21        19
+      1.6  EX|perts|SAY|that|CLI|mate|CHANGE|has|MO|di|FIED|en|VI|ron|MENTS*|in.the|WEST|coast*|MA|king.them*|MORE|con|DU|cive.to*|WIL.DFI*|res  c             13       30        34
+
+
+estimated schema
+----------
+meter: Iambic
+feet: Complex (2-3-7-7-8-13)
+syllables: Complex (4-8-16-16-22-30)
+rhyme: Sestet A (aabccb)

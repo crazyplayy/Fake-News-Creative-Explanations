@@ -1,0 +1,12 @@
+  (#s,#l)  parse                                                                                           rhyme      #feet    #syll    #parse
+---------  ----------------------------------------------------------------------------------------------  -------  -------  -------  --------
+      1.1  there.is|NO|such|THING|as.a|BOOS|ter                                                            -              3        9         1
+      1.2  there|IS|a|FAILED.PRO*|duct|THAT|is|SO|metimes*|USED|a|GAIN|in|HOPES|of.a|DIF|ferent|OUT|come*  -              9       21        12
+
+
+estimated schema
+----------
+meter: Iambic
+feet: Alternating (trimeter-enneameter)
+syllables: Alternating (10-22)
+rhyme: Couplet (aa)

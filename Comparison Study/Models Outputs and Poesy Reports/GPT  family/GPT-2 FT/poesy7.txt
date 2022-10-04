@@ -1,0 +1,17 @@
+  (#s,#l)  parse                              rhyme      #feet    #syll    #parse
+---------  ---------------------------------  -------  -------  -------  --------
+      1.1  FAR|mers|WERE*|in|DEED|hard*|HIT   a              4        7         1
+      1.2  but.it|WASNT|the|GRAINS|they|LOST  a              3        7         1
+      1.3  that|CAUSED|the|DOWN|fall*         -              2        5         2
+      1.4  IT|was.the|OT|her|THINGS           c              3        6         1
+      1.5  such.as|LACK|of.de*|MAND           -              2        6         4
+      1.6  and.the|HIGH.PRI*|ces|THEY|rose*   c              2        7         9
+      1.7  that|MADE|the.di*|SAS|ter|HAP|pen  -              3        8         3
+
+
+estimated schema
+----------
+meter: Trochaic
+feet: Complex (4-3-2-3-2-2-3)
+syllables: Complex (8-8-6-6-6-8-8)
+rhyme: Rhyme Royal (ababbcc)

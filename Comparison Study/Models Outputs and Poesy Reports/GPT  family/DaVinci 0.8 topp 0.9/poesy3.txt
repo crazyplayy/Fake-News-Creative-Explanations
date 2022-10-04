@@ -1,0 +1,19 @@
+  (#s,#l)  parse                                                    rhyme      #feet    #syll    #parse
+---------  -------------------------------------------------------  -------  -------  -------  --------
+      1.1  SIP|ping|WA|ter|E|very|2|0|MI|nutes                      -              5       10         1
+      1.2  TO*|pre|VENT.CO*|ro|NA|vi.rus*|THATS|a|BSURD             b              5       11        10
+      1.3  AND*|if.you|THINK|thats*|BAD                             b              3        6         2
+      1.4  JUST|wait*|TIL|you|HEAR|the|REST                         -              4        7         2
+
+      2.1  ex|PO|sing.your*|CLOT|hing|TO*|the|SUN                   d              4        9         4
+      2.2  to|KILL|the|VI|rus|PLEASE.NO*|one                        d              3        8         3
+      2.3  and|DONT|for|GET|to|WASH|your|HANDS                      e              4        8         1
+      2.4  but.not|E|very|2|0|MI|nutes|AS*|the|MES|sage.com*|MANDS  e              6       14         4
+
+
+estimated schema
+----------
+meter: Iambic
+feet: Tetrameter
+syllables: Complex (10-10-8-10)
+rhyme: Couplet (aa)

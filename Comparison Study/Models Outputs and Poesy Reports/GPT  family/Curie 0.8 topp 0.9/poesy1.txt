@@ -1,0 +1,15 @@
+  (#s,#l)  parse                                                         rhyme      #feet    #syll    #parse
+---------  ------------------------------------------------------------  -------  -------  -------  --------
+      1.1  TAX.PAY*|ers|FUN|ded|THE*|de|VE|lo|PMENT*|of.rem*|DE|si|V|ir  -              7       16        16
+      1.2  SA|ving|COUN|tless|LIVES|in.the|PRO.CESS                      -              4        9         1
+
+      2.1  we|THANK|our|FO.RE*|fathers|WHO.PASSED*|down.this|WEALTH      -              4       11         5
+      2.2  so|THAT|we.could|SAVE|the|DAY                                 -              3        7         2
+
+
+estimated schema
+----------
+meter: Iambic
+feet: Tetrameter
+syllables: Alternating (14-8)
+rhyme: Couplet (aa)

@@ -1,0 +1,19 @@
+  (#s,#l)  parse                                            rhyme      #feet    #syll    #parse
+---------  -----------------------------------------------  -------  -------  -------  --------
+      1.1  FALSE|claims*|CIR|cu|LATE                        a              3        5         1
+      1.2  TEL|ling|OF*|a|FAILED.PRO*|duct                  -              3        7         5
+      1.3  THATS.ON*|ly|USED|as.a|LAST|re|SORT              -              4        9         2
+      1.4  THE*|ef|FEC|ti|VENESS*|of|CO|vid|1|9|VAC.CINES*  -              6       12        13
+      1.5  is|SEEN|in.the|HIGHER|in|FEC|tion|RATES          a              4        9         1
+      1.6  SPREAD.HOS*|pi|TA*|li|ZA|tion.and*|DEATH         -              4        9         4
+      1.7  its|COM|mon|TO*|give*|BOOS|ters                  -              3        7         4
+      1.8  TO*|main|TAIN|or|LENGT|hen|THE*|pro|TEC|tion     g              5       10         2
+      1.9  pro|VI|ded|BY*|an.i*|NI|tial|VAC*|ci|NA|tion     g              5       12         4
+
+
+estimated schema
+----------
+meter: Trochaic
+feet: Complex (3-3-4-6-4-4-3-5-5)
+syllables: Complex (6-8-10-12-10-10-8-10-12)
+rhyme: Triplet (aaa)

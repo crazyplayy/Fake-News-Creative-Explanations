@@ -1,0 +1,12 @@
+  (#s,#l)  parse                                                             rhyme      #feet    #syll    #parse
+---------  ----------------------------------------------------------------  -------  -------  -------  --------
+      1.1  FOR|tu|NA*|tely|CO|vid|DOESN´DOE|sn´t|HAVE|wings*                 -              5       10         4
+      1.2  but|STILL.DOESN´DOE*|sn´t|MEAN|it.is|SAFE|to|PLAY|with|CHIL|dren  -              5       13         3
+
+
+estimated schema
+----------
+meter: Trochaic
+feet: Pentameter
+syllables: Alternating (10-14)
+rhyme: Couplet (aa)

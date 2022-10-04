@@ -1,0 +1,26 @@
+  (#s,#l)  parse                                                           rhyme      #feet    #syll    #parse
+---------  --------------------------------------------------------------  -------  -------  -------  --------
+      1.1  the|GO|vern.ment*|GAVE|gi|LEAD.MO*|ney                          -              3        9         4
+      1.2  PAID|for|THEIR*|de|VE|lo|PMENT*|of.rem*|DE|si|V|ir              -              6       13         8
+      1.3  34|.|||5.MIL*|lion.to*|BE|e|XACT                                -              5       11         4
+      1.4  WHEN|they|FOUND|out|IT|could|TREAT|e|BO|la                      -              5       10         2
+      1.5  IT|was|GI|ven|TO*|them|IN|the|HOPES|that.they|WOULD|suc|CEED    -              7       14         4
+
+      2.1  AND*|suc|CEED|they|DID                                          -              3        5         4
+      2.2  but|AT|what|COST                                                -              2        4         1
+
+      3.1  the|NIH.GAVE*|them.a|GRANT|for|6.MIL*|lion                      h              3       10        10
+      3.2  to|HELP|them|SPEED|up.the|PRO.CESS                              -              3        8         1
+      3.3  and|THEN|a|NOT|her|3|0|MIL|lion                                 h              4        9         1
+      3.4  to|SEE|how.it|WORKED|a|GAINST.CO*|vid|1|9                       -              4       11         2
+
+      4.1  ALL|of.this|MO|ney|CAME|from|TAX.PAY*|ers                       -              4       10         3
+      4.2  and|NOW|the|DRUG|is|BE|ing|SOLD|for|3.,|12|.*|.*||0.per*|VI|al  -              8       21         7
+
+
+estimated schema
+----------
+meter: Trochaic
+feet: Tetrameter
+syllables: 10
+rhyme: Quatrain And Triplet (ababccc)

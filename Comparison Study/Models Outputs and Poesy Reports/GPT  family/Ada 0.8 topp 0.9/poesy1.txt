@@ -1,0 +1,16 @@
+  (#s,#l)  parse                                         rhyme      #feet    #syll    #parse
+---------  --------------------------------------------  -------  -------  -------  --------
+      1.1  the|70|,.00*|0|,000|SPENT|on.rem*|DE|si|V|ir  -              5       13        16
+      1.2  is|JUST|a|DROP|in.the|O|cean                  -              3        8         1
+
+      2.1  for|ALL|of.us                                 c              1        4         1
+      2.2  THIS*|was.a|DROP|that                         c              2        5         2
+      2.3  S|q*|N|was|WORTH|a|LOT|of|MO|ney              -              5       10         2
+
+
+estimated schema
+----------
+meter: Trochaic
+feet: Complex (5-3-1-2-5) 
+syllables: Complex (14-8-4-6-10)
+rhyme: Aternating C (ababa)

@@ -1,0 +1,24 @@
+  (#s,#l)  parse                                      rhyme      #feet    #syll    #parse
+---------  -----------------------------------------  -------  -------  -------  --------
+      1.1  a|NEW.CHAL*|len|GER*|ap|PROAC|hes|FO|rest  -              4       10         3
+      1.2  CLAIMS|are|SWIFT|to.en*|SNARE              b              3        6         4
+      1.3  but.this|TIME|itits*|TRUE                  -              2        5         1
+      1.4  GA|vin|DIDNT|have.a|VAC|cine*|CARD         b              4        8         6
+      1.5  but.it|WASNT|what|YO|urre|THIN|king        -              3        8         1
+      1.6  IT|was|MORE|of.a|PI|ty|PAR|ty              -              4        9         2
+
+      2.1  he|DIDNT|have.a|VAC|cine*|CARD             -              3        7         8
+      2.2  but.like|PO|tions.from*|WITCH|craft*       -              2        7         4
+      2.3  THERES|no*|E|vi|DENCE*|of|THEIR*|re|SULTS  -              5        9         4
+
+      3.1  NEW|som|DIDNT|have.a|VAC|cine*|CARD        -              4        8         6
+      3.2  but.like|PO|tions.from*|WITCH|craft*       -              2        7         4
+      3.3  THERES|no*|E|vi|DENCE*|of|THEIR*|re|SULTS  -              5        9         4
+
+
+estimated schema
+----------
+meter: Trochaic
+feet: Complex (4-3-4-4-3-5)
+syllables: Complex (8-6-8-8-8-10)
+rhyme: Alternating B (abcb)

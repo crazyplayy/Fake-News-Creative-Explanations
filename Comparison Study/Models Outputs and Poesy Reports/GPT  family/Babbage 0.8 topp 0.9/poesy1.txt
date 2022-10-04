@@ -1,0 +1,17 @@
+  (#s,#l)  parse                                                                    rhyme      #feet    #syll    #parse
+---------  -----------------------------------------------------------------------  -------  -------  -------  --------
+      1.1  WE|spent*|O|ver|70|,.00*|0|,000|TO*|de|VE|lop|THIS*|new*|DRUG            -              8       16        20
+      1.2  and.its|JUST|a|MAT|ter.of*|TIME|be|FORE|it|GETS|to.the|PA|tients         -              6       16         2
+
+      2.1  THE*|de|PAR|tment|OF*|de|FENSE|and.the|NA|tional|INS|ti|TUTES|of|HEALTH  c              8       16         2
+      2.2  SUNK.O*|ver|3|0|MIL|lion|IN|to|CLI|ni.cal*|TRI|als                       -              6       14         8
+      2.3  to|SEE|if.this|NEW|drug*                                                 -              2        6         2
+      2.4  will|HELP|re|DUCE.CO*|vid|1|9s|SPREAD                                    c              4        9         2
+
+
+estimated schema
+----------
+meter: Trochaic
+feet: Complex (8-6-8-6-2-4)
+syllables: Complex (16-16-16-14-6-10)
+rhyme: Sestet A (aabccb)
