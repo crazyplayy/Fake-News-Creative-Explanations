@@ -1,0 +1,19 @@
+  (#s,#l)  parse                                              rhyme      #feet    #syll    #parse
+---------  -------------------------------------------------  -------  -------  -------  --------
+      1.1  CO|ro|NA|vi|RUS*|pan|DE|mic|IS.TA*|king.its*|TOLL  -              6       13         6
+      1.2  on.the|PEO|ple|OF*|the|WORLD                       -              3        7         1
+      1.3  but|THERES|a|SIL|ver|LI|ning                       -              3        7         1
+      1.4  ITITS.GET*|ting|PEO|ple|OUT*|and.a*|BOUT           -              4        9        12
+
+      2.1  ho|TELS|air*|LINES|and|CAR.REN*|tal|BU|si|NESSES*  e              5       11        15
+      2.2  are|PRO|fi|TING*|from.the|TRA|velers               e              3        8         1
+      2.3  WHO|are|FIL|ling.their*|POC|kets                   -              3        7         4
+      2.4  AT|the.ex*|PENSE|of|THE*|un|WA|ry                  -              4        9         2
+
+
+estimated schema
+----------
+meter: Iambic
+feet: Complex (6-3-3-4)
+syllables: Complex (12-8-8-10)
+rhyme: Couplet (aa)
