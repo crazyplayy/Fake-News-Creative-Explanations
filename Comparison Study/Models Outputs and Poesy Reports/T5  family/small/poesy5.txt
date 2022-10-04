@@ -1,0 +1,11 @@
+  (#s,#l)  parse                                                                                     rhyme      #feet    #syll    #parse
+---------  ----------------------------------------------------------------------------------------  -------  -------  -------  --------
+      1.1  THE*|in|GRE|die|NTS*|of|CO|vid|1|9|VAC.CINES*|are|PU|blished|AND*|do|NOT|in|CLUDE|h*|I.V  ?             11       23        48
+
+
+estimated schema
+----------
+meter: Trochaic
+feet: Hendecameter
+syllables: 24
+rhyme:  

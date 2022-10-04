@@ -1,0 +1,15 @@
+  (#s,#l)  parse                                                       rhyme      #feet    #syll    #parse
+---------  ----------------------------------------------------------  -------  -------  -------  --------
+      1.1  NO|re|PORTS|of.do*|NA|tions|FROM*|u|KRAINE|were|E|vi|DENT*  a              7       14         9
+      1.2  ukraineu|KRAINES.GO*|vern|MENT*                             a              2        5         5
+      1.3  VAC.CINES*|fight*|E|ne|MIES*                                -              3        6        11
+      1.4  who|RUN|off|WITH*|their|TAILS                               -              3        6         1
+      1.5  u|KRAI|nian|GO|vern|MENT*                                   a              3        6         3
+
+
+estimated schema
+----------
+meter: Iambic
+feet: Complex (7-2-3-3-3)
+syllables: Complex (14-6-6-6-6)
+rhyme: Aternating C (ababa)

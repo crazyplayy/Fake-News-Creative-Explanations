@@ -1,0 +1,17 @@
+  (#s,#l)  parse                                                                                      rhyme      #feet    #syll    #parse
+---------  -----------------------------------------------------------------------------------------  -------  -------  -------  --------
+      1.1  the.us|HAS|made*|PRO.GRESS|de|CREA|sing.e*|MIS|sions|8|.|2|from|20.1*|.*|0|to|20.1*|.*||9  a             10       28       141
+      1.2  the.us|HAS|made*|STRIDES|in.re*|DU|cing|CAR|bon.e*|MIS|sions                               -              5       14        24
+      1.3  the.us|HAS|made*|PRO.GRESS|de|CREA|sing.e*|MIS|sions|8|.|2|from|20.1*|.*|0|to|20.1*|.*||9  a             10       28       141
+      1.4  a|MONG.OT*|her|TOP|e|MIT|ters.bra*|ZIL.MADE*|the|MOST|pro|GRESS                            c              6       15        14
+      1.5  CHI|na.and*|IN|dia|SAW.MA*|jor|IN|crea|SES*|but.are|STRUG|gl|ING*|with.the|MAIN|tenance    d              8       20        15
+      1.6  CHI|na.and*|IN|d|IA*|are|STRUG|gl|ING*|with.the|MAIN|tenance                               d              6       14        12
+      1.7  while|CHI|na.and*|IN|dia|COUN|ter.the*|OC|ci|DENT                                          c              5       12         5
+
+
+estimated schema
+----------
+meter: Anapestic
+feet: Complex (10-5-10-6-8-6-5)
+syllables: Complex (28-14-28-16-20-14-12)
+rhyme: Quatrain And Triplet (ababccc)

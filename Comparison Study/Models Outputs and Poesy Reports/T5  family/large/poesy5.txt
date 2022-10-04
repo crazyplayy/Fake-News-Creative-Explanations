@@ -1,0 +1,11 @@
+  (#s,#l)  parse                                              rhyme      #feet    #syll    #parse
+---------  -------------------------------------------------  -------  -------  -------  --------
+      1.1  the|SE|cond|BOOS|ter|HAS|eight*|STRAINS|of|H|i*|V  ?              6       12         3
+
+
+estimated schema
+----------
+meter: Iambic
+feet: Hexameter
+syllables: 12
+rhyme:  
