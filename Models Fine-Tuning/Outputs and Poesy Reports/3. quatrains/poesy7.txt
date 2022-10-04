@@ -1,0 +1,14 @@
+  (#s,#l)  parse                                                     rhyme      #feet    #syll    #parse
+---------  --------------------------------------------------------  -------  -------  -------  --------
+      1.1  IT|would|COST|a|SMALL.FOR*|tune|TO*|end*|HO|me|LESSNESS*  a              6       12        18
+      1.2  a|PIT|tance|IN|com|PA|ri.son*|HAL|ting|GLO|bal|WAR|ming   -              6       14         2
+      1.3  WELL|i|FA|vor.the*|LAT|ter.but*|THEN|thatthats*|JUST|me   a              5       12        17
+      1.4  OH|iim*|NO.CLI*|mate|CHANGE|de|NI|er|DONDONT|you|SEE      a              6       12         4
+
+
+estimated schema
+----------
+meter: Iambic
+feet: Complex (6-6-5-6)
+syllables: Complex (12-14-12-12)
+rhyme: Couplet (aa)

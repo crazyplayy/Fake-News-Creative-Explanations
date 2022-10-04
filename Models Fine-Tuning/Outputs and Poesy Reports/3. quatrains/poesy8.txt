@@ -1,0 +1,18 @@
+  (#s,#l)  parse                                 rhyme      #feet    #syll    #parse
+---------  ------------------------------------  -------  -------  -------  --------
+      1.1  WHOWHOS|to|BLAME|for|HIGH|car*|RENTS  a              4        7         1
+      1.2  DE|mo|CRATS|of|COURSE                 a              3        5         1
+      1.3  in|TRUTH|though|BOTH.PAR*|ties|SHARE  b              3        7         3
+      1.4  the|GUILT.ITITS*|bi|PAR|ti|SAN*       a              3        7         4
+      1.5  ALT.HOUGH*|both*|PAR|ties|SHARE       b              3        6         4
+      1.6  the|BLAME|the|DE|mo|CRATS             a              3        6         1
+      1.7  HAVE|one.im*|POR|tant|PERK            -              3        6         2
+      1.8  the|VI|rus|FA|vors|DEMS               -              3        6         1
+
+
+estimated schema
+----------
+meter: Iambic
+feet: Complex (4-3-3-3-3-3-3-3)
+syllables: 6
+rhyme: Ottava Rima (abababcc)

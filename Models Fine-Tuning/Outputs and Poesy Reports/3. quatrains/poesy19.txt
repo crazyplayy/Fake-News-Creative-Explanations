@@ -1,0 +1,14 @@
+  (#s,#l)  parse                               rhyme      #feet    #syll    #parse
+---------  ----------------------------------  -------  -------  -------  --------
+      1.1  koa|L|as.are*|DO|ing|FINE           a              3        7         2
+      1.2  theythey|RE|not|GO|ing.to*|DIE|out  -              3        8         2
+      1.3  the|DATADA|tas|QUITE|clear*         a              2        5         2
+      1.4  WHY|are.you|SO*|out.of|TOUCH        -              3        7         1
+
+
+estimated schema
+----------
+meter: Iambic
+feet: Complex (3-3-2-3)
+syllables: Complex (8-8-6-8)
+rhyme: Alternating A (abab)

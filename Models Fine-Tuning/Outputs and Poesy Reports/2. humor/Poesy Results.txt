@@ -1,0 +1,18 @@
+Poesy Results 
+
+Anapestic Complex: 2 - rr e
+Iambic Trimeter: c
+Iambic Tetrameter: 2 - a c
+Iambic Hexameter: e
+Iambic Alternating: c
+Iambic Complex: 7 - spe rr c a c c se
+Trochaic Tetrameter: o
+Trochaic Complex:  5 - e a spe e c
+
+Alternating: 3
+Couplet: 7
+Enclosed: 4 
+Octet: 1
+Rhyme Royal: 2
+Sestet: 1 
+Spenserian Stanza: 2

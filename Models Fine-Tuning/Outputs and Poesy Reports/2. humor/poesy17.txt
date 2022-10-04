@@ -1,0 +1,16 @@
+  (#s,#l)  parse                                                      rhyme      #feet    #syll    #parse
+---------  ---------------------------------------------------------  -------  -------  -------  --------
+      1.1  the|EPIDEMICE|pi|DE|mics|TOLL|is|TRU|ly|TRA|gic            -              5       11         1
+      1.2  but|ITITS.WORTH*|re|MEM|bering|THAT|a|PILL                 b              4        9         2
+      1.3  can|SO|mewhat*|MI|ti|GATE|the.i*|NE|vi|TA*|ble             b              5       12         3
+      1.4  so|TAKE|your|VI|ta.min*|D|and|TAKE|your|BET                c              5       11         2
+      1.5  that|VI|ta.min*|D|can|SO|mewhat*|MI|ti|GATE                c              5       11         2
+      1.6  if|THATTHATS|too*|TOUGH|then|SIM|ply|TAKE|your|VI|ta|MIN*  b              6       12         3
+
+
+estimated schema
+----------
+meter: Iambic
+feet: Complex (5-4-5-5-5-6)
+syllables: Complex (12-10-12-12-12-12)
+rhyme: Sestet A (aabccb)
