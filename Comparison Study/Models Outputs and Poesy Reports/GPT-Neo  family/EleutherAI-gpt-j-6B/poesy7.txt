@@ -1,0 +1,16 @@
+  (#s,#l)  parse                           rhyme      #feet    #syll    #parse
+---------  ------------------------------  -------  -------  -------  --------
+      1.1  FAR|mers|BAN|krupt|CIES*        a              3        5         2
+      1.2  have|BEEN|in|CREA|sing          a              2        5         1
+      1.3  SINCE|20*|1|.*||4               -              3        7         3
+      1.4  TRUMPS.TA*|riffs|WERE*|a|SHOCK  -              3        6         3
+      1.5  but.the|CAUSE|of|BAN|krupt|CY*  a              3        7         2
+      1.6  ISNT|a|MYS|te|RY*               a              3        5         3
+
+
+estimated schema
+----------
+meter: Trochaic
+feet: Complex (3-2-3-3-3-3)
+syllables: 6
+rhyme: Couplet (aa)

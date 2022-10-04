@@ -1,0 +1,21 @@
+  (#s,#l)  parse                                          rhyme      #feet    #syll    #parse
+---------  ---------------------------------------------  -------  -------  -------  --------
+      1.1  I|dondont*|THINK|this.is|FAIR                  -              3        6         2
+      1.2  THATTHATS|why.the|STATES|are|DIF|ferent        -              3        7         1
+      1.3  the|VI|rus|HAS|not|BEEN|a|ROUND|that|LONG      -              5       10         1
+      1.4  so.some|STATES|didndidnt*|SEE|it|COME          -              3        7         1
+
+      2.1  the|VI|rus|HAS.BEEN*|a|ROUND|since|20.1*|.*|2  -              5       13        25
+      2.2  it|TOOK|new*|YORK|un|TIL|20*|2|.*||0           -              5       12         2
+      2.3  FLO|ri|DA*|was.pre*|PARED                      -              3        6         5
+      2.4  NEW.YORK*|was|NOT                              -              2        4         4
+      2.5  THATTHATS|why.we|SEE                           -              2        4         1
+      2.6  FLO|ri.da*|HAS|less*|CA|ses                    -              3        7         3
+
+
+estimated schema
+----------
+meter: Iambic
+feet: Complex (3-3-5-3-5-5-3-2-2-3)
+syllables: Complex (6-8-10-8-14-12-6-4-4-8)
+rhyme: Couplet (aa)

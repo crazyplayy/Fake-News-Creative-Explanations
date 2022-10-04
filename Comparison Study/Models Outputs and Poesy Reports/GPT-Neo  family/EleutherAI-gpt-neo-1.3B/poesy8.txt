@@ -1,0 +1,26 @@
+  (#s,#l)  parse                                                                   rhyme      #feet    #syll    #parse
+---------  ----------------------------------------------------------------------  -------  -------  -------  --------
+      1.1  the|VI|rus|HAS|been|UN|der.con*|TROL                                    -              4        9         4
+      1.2  NO.PA*|nic                                                              -              1        3         2
+      1.3  WE|must|ALL|do.our|BEST|to.main*|TAIN|a|SENSE|of.se*|CU|ri|TY*          -              7       16        79
+
+      2.1  but.i|TELL|you|THERE*|was.a|TIME                                        -              3        8         2
+      2.2  when|NO|one|KNEW|what.was|GO|ing|ON*                                    -              4        9         3
+
+      3.1  WHEN|i.was|IN|that|MEE|ting                                             -              3        7         2
+      3.2  I|was|TOLD|not.to|TRUST|the|ME|dia                                      -              4        9         2
+      3.3  they|SAID|they.were|ON|ly.re*|POR|ting|WHAT|they.were|TOLD|to.re*|PORT  h              6       16        18
+      3.4  and|IT|was|VE|ry|DAN|gerous                                             -              3        7         1
+      3.5  and|I|had.a|TER|ri|BLE*|ex|PE|rience                                    -              4       10         2
+      3.6  I|was|IN|an|AIR|port*                                                   h              3        6         4
+      3.7  I|was|TOLD|to|GO|to.the|DOC|tor                                         k              4        9         2
+      3.8  and|I|was|TOLD|to|GO|to.the|DOC|tor                                     k              4       10         1
+      3.9  I|had.to                                                                -              1        3         2
+
+
+estimated schema
+----------
+meter: Trochaic
+feet: Complex (6-3-6-3-4-4-3)
+syllables: Complex (12-6-14-8-10-8-6)
+rhyme: Sonnet J (abbabacd cddeee)

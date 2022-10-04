@@ -1,0 +1,17 @@
+  (#s,#l)  parse                                                                                 rhyme      #feet    #syll    #parse
+---------  ------------------------------------------------------------------------------------  -------  -------  -------  --------
+      1.1  PEO|ple|IN|the.u*|NI|ted|STATES|have.a|LOW|im|MUNE|res|PONSE|to|CO|vid|1|9|VAC.CINE*  a             10       22         7
+      1.2  ITITS|not|JUST|the.im*|MUNE|res|PONSE|that.is|LOW                                     -              5       11         3
+      1.3  THE*|res|PONSE|to|CO|vid|1|9|IS|more.than                                             a              5       11         2
+      1.4  the|NUM|ber.of*|PEO|ple|IN|the.u*|NI|ted|STATES                                       -              5       12         8
+      1.5  WHO|have.a|HIGH|im|MUNE|res|PONSE|to|CO|vid|1|9                                       a              6       13         2
+      1.6  there|IS|no*|E|vi|DENCE*|of.a|BOOS|ter                                                d              4       10         2
+      1.7  NO.E*|vi|DENCE*|of.the|PRE|sence|OF*|a|BOOS|ter                                       d              5       12         4
+
+
+estimated schema
+----------
+meter: Trochaic
+feet: Complex (10-5-5-5-6-4-5)
+syllables: Complex (22-12-12-12-14-10-12)
+rhyme: Rhyme Royal (ababbcc)

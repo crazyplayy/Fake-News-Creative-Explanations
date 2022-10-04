@@ -1,0 +1,24 @@
+  (#s,#l)  parse                                                rhyme      #feet    #syll    #parse
+---------  ---------------------------------------------------  -------  -------  -------  --------
+      1.1  CO|ro|NA|vi|RUS*                                     -              3        5         3
+      1.2  a|BAD|di|SEASE                                       -              2        4         1
+      1.3  NOT|as|BAD|as.it|SOUNDS                              -              3        6         2
+      1.4  ITITS|a|PLAGUE|that|KILLS|the|OLD                    d              4        7         1
+      1.5  but|LEAVES|the|YOUNG|a|LONE                          d              3        6         1
+
+      2.1  A*|di|SEASE|thatthats*|WORSE|than.the|FLU            -              4        8         2
+      2.2  but|LESS|than.the|FLU|and.the|COM|mon|COLD           -              4       10         1
+
+      3.1  ITITS|not.so|BAD|but.you|MUST.WEAR*|a|MASK           -              4       10         2
+      3.2  AND*|a|VOID.PU*|blic|PLA|ces                         -              3        7         5
+
+      4.1  CO|vid|1|9|THE*|di|SEASE|is|STILL.KIL*|ling|PEO|ple  -              6       13         2
+      4.2  AND*|theythey|RE|not|JUST|the|OLD                    -              4        7         2
+
+
+estimated schema
+----------
+meter: Trochaic
+feet: Tetrameter
+syllables: 8
+rhyme: Sestet A (aabccb)
