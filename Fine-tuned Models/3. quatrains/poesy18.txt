@@ -1,0 +1,56 @@
+  (#s,#l)  parse                                     rhyme      #feet    #syll    #parse
+---------  ----------------------------------------  -------  -------  -------  --------
+      1.1  their|VO|ting.re*|CORDS|are|SI|mi|LAR*    a              4        9        12
+      1.2  BOTH|are|PRET|ty|FAR|left*                a              3        6         2
+      1.3  BOTH|sup|PORT|the|GREEN|new*|DEAL         a              4        7         1
+      1.4  BOTH.HATE*|the|DEATH.PE*|nal|TY*          a              3        7        11
+
+      2.1  BOTH.WANT*|to|BAN|as|SAULT.RI*|fles       -              3        8         4
+      2.2  BOTH.WANT*|a|GREEN|new*|DEAL              c              3        6         2
+      2.3  BOTH|op|POSE|the|DEATH.PE*|nal|TY*        c              4        8         4
+      2.4  BOTH|sup|PORT|a|GREEN|new*|DEAL           c              4        7         1
+
+      3.1  BOTH.WANT*|to|STOP|the|TAX|cuts*          -              3        7         4
+      3.2  BOTH.HATE*|the|DEATH.PE*|nal|TY*          e              3        7        11
+      3.3  BOTH.WANT*|to|BAN|as|SAULT.RI*|fles       -              3        8         4
+      3.4  BOTH.HATE*|the|DEATH.PE*|nal|TY*          e              3        7        11
+
+      4.1  BOTH.WANT*|to|OF|fer|FREE|tui|TI|on       g              4        9         2
+      4.2  BOTH.WANT*|to|STOP|the|TAX|cuts*          -              3        7         4
+      4.3  BOTH|op|POSE|the|DEATH.PE*|nal|TY*        -              4        8         4
+      4.4  BOTH.WANT*|to|OF|fer|FREE|tui|TI|on       g              4        9         2
+
+      5.1  BOTH|sup|PORT|a|BOR|tion|RIGHTS           j              4        7         1
+      5.2  BOTH.WANT*|to|BAN|as|SAULT.RI*|fles       -              3        8         4
+      5.3  BOTH.WANT*|to|STOP|the|TAX|cuts*          j              3        7         4
+      5.4  BOTH.HATE*|the|DEATH.PE*|nal|TY*          -              3        7        11
+
+      6.1  BOTH.HATE*|de|TEN|tion.of*|IM|mi|GRANTS*  m              4        9        16
+      6.2  BOTH.WANT*|to|BAN|as|SAULT.RI*|fles       -              3        8         4
+      6.3  BOTH.WANT*|to|OF|fer|FREE|tui|TI|on       -              4        9         2
+      6.4  BOTH.WANT*|to|STOP|the|TAX|cuts*          m              3        7         4
+
+      7.1  BOTH.WANT*|to|OF|fer|FREE|tui|TI|on       -              4        9         2
+      7.2  BOTH|sup|PORT|a|BOR|tion|RIGHTS           q              4        7         1
+      7.3  BOTH.WANT*|to|STOP|the|TAX|cuts*          q              3        7         4
+      7.4  BOTH.HATE*|the|DEATH.PE*|nal|TY*          -              3        7        11
+      7.5  BOTH.WANT*|to|BAN|as|SAULT.RI*|fles       -              3        8         4
+
+      8.1  BOTH.WANT*|to|OF|fer|FREE|tui|TI|on       -              4        9         2
+      8.2  BOTH|sup|PORT|a|BOR|tion|RIGHTS           u              4        7         1
+      8.3  BOTH.HATE*|the|DEATH.PE*|nal|TY*          v              3        7        11
+      8.4  BOTH.WANT*|to|STOP|the|TAX|cuts*          u              3        7         4
+      8.5  BOTH|sup|PORT|a|GREEN|new*|DEAL           v              4        7         1
+
+      9.1  BOTH|want*|RE|pa|RA|tions.for*|SLAVES     -              4        8         2
+      9.2  BOTH.WANT*|to|BAN|as|SAULT.RI*|fles       -              3        8         4
+      9.3  BOTH|sup|PORT|a|BOR|tion|RIGHTS           x              4        7         1
+      9.4  BOTH.WANT*|to|STOP|the|TAX|cuts*          x              3        7         4
+
+
+estimated schema
+----------
+meter: Iambic
+feet: Alternating (tetrameter-trimeter)
+syllables: Alternating (8-7)
+rhyme: Couplet (aa)

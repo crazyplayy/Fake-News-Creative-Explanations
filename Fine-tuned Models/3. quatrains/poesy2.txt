@@ -1,0 +1,24 @@
+  (#s,#l)  parse                                                     rhyme      #feet    #syll    #parse
+---------  --------------------------------------------------------  -------  -------  -------  --------
+      1.1  A*|u|KRA|nian|PI|lot.a*|HE|ro|OF*|the|SKIES               a              6       12         8
+      1.2  STOPS|at|NOT|hing|TO*|down.his|FOE                        b              4        8         1
+      1.3  his|NAME|re|VEALED|by.his|MOT|her|IN|a|BOAST              b              5       11         1
+      1.4  is|SA|muy|IL|hyde*                                        a              2        5         2
+
+      2.1  HEHES|not|A*|co|ME|di|AN*|nor|E|ven.a*|GHOST              c              6       12         6
+      2.2  nor|HYDE.MAY*|be.but*|SA|muy|IL                           -              3        8         5
+      2.3  if.you|SHOULD|en|COUN|ter|HIM*|and|HE|should|SHOOT        c              5       11         1
+      2.4  ITITS.NOT*|be|CAUSE.HEHES*|in.a|MOOD                      c              3        8         8
+
+      3.1  ITITS.NOT*|be|CAUSE|the|WORLDWORLDS|gone*|MAD|itits*|NOT  e              5       10        16
+      3.2  be|CAUSE|his|NAME|is|SA|muy|IL                            -              4        8         1
+      3.3  ITITS.JUST*|be|CAUSE.HEHES*|u|KRAI|ni|AN*|and|PISSED      e              5       11        17
+      3.4  THATTHATS|all|DONDONT|blame*|HYDE                         -              3        5         1
+
+
+estimated schema
+----------
+meter: Iambic
+feet: Complex (6-4-5-3)
+syllables: Complex (12-8-12-6)
+rhyme: Enclosed Rhyme (abba)

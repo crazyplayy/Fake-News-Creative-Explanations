@@ -1,0 +1,15 @@
+Poesy Results
+
+Anapestic Tetrameter: c
+Iambic Trimeter: 6 - se c c c c se
+Iambic Alternating: c
+Iambic Complex: 9 - c e e c o c a a o
+Trochaic Trimeter: c
+Trochaic Complex: 2 - t a
+
+Alternating: 3
+Couplet: 10
+Enclosed: 2
+Octet: 2
+Sestet: 2
+Triplet: 1

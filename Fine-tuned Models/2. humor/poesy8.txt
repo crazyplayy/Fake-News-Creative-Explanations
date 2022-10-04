@@ -1,0 +1,23 @@
+  (#s,#l)  parse                                 rhyme      #feet    #syll    #parse
+---------  ------------------------------------  -------  -------  -------  --------
+     1.1   this|WEEK|when.i|WENT|to.the|BEACH    -              3        8         1
+     1.2   i|DROVE|my|CAR|not.my|BIKE            -              3        7         1
+     1.3   I|would.have|TA|ken.a*|PLANE          c              3        7         4
+     1.4   but|THAT|would|HAVE|been|TOO|late*    c              3        7         6
+     1.5   the|VIRUSVI|ru.ss*|GET|ting.so*|BAD   d              3        8         4
+     1.6   THAT|air*|TRA|vel|IS|trash*           d              3        6         7
+     1.7   I|could.have|TA|ken.the*|TRAIN        c              3        7         4
+     1.8   but|AMTRAKAM|traks|JUST|trash*        d              2        5         4
+     1.9   i|STAYED|at|A*|ho|TEL                 e              3        6         3
+     1.1   but|THATTHATS|trash*|TOO|and|COS|tly  e              3        7         1
+     1.11  IID|have|LIKED|to.have|CAMPED|out     -              3        7         1
+     1.12  but|THATTHATS|trash*|TOO|and|SMEL|ly  e              3        7         1
+     1.13  the|COST|of.my|TRIP|trash*            -              2        6         2
+
+
+estimated schema
+----------
+meter: Iambic
+feet: Trimeter
+syllables: 7
+rhyme: Couplet (aa)

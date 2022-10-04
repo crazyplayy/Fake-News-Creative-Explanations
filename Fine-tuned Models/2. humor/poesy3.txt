@@ -1,0 +1,36 @@
+  (#s,#l)  parse                                                   rhyme      #feet    #syll    #parse
+---------  ------------------------------------------------------  -------  -------  -------  --------
+      1.1  the|TECH.BIL*|lio|NAIRES|are.at|IT|a|GAIN               a              4       10         3
+      1.2  AI|ming.to*|SAVE|the|WORLD|with.tec*|HNO|lo|GY*         a              5       11        17
+      1.3  WHOWHOS.GOT*|the|PLAN|for|FI|xing|GLO|bal|WAR|ming      -              5       11         2
+      1.4  GATES|of|COURSE|hehes*|GOT|the|AN|swer.you*|SEE         a              5       10         3
+
+      2.1  ITITS|this|HEHELL.BUY*|some|PLANES|to|SPRAY|the|SKY     c              5       10         2
+      2.2  with|PAR|ti|CLES*|de|SIGNED|to|BLOCK|the|SUN            -              5       10         1
+      2.3  ITITS|well*|MEA|ning.but*|LOOK|at|IT|this|WAY           c              5       10         3
+      2.4  ITITS.TER*|ri.bly*|HOR|ri.bly*|STU|pid                  -              3        9         9
+
+      3.1  ITITS|a|PLANE.LOAD*|of|FOOL.HAR*|dy|MO|ney|SPENT        -              5       11         4
+      3.2  on.a|SCHEME|that.could|WRECK|the|E|co|SYS|tem           -              4       11         1
+      3.3  ITITS|not|E|ven|BEEN.TRIED*|what|PROOF|have|THEY        h              5       10         7
+      3.4  IT|would|WORK|and.what|HAP|pens|WHEN|it|FAILS           h              5       10         2
+
+      4.1  ITITS|a|STU|pid.i*|D|ea|LETLETS|not|GO|through.with|IT  i              6       13         4
+      4.2  ITITS|not|E|ven|BEEN.TRIED*|what|PROOF|have|THEY        j              5       10         7
+      4.3  IT|would|WORK|and.what|HAP|pens|WHEN|it|FAILS           j              5       10         2
+      4.4  ITITS|a|STU|pid.i*|D|ea|LETLETS|not|GO|through.with|IT  i              6       13         4
+
+      5.1  ITITS|a|STU|pid.i*|D|ea|LETLETS|not|GO|through.with|IT  k              6       13         4
+      5.2  ITITS|not|E|ven|BEEN.TRIED*|what|PROOF|have|THEY        l              5       10         7
+      5.3  IT|would|WORK|and.what|HAP|pens|WHEN|it|FAILS           l              5       10         2
+      5.4  ITITS|a|STU|pid.i*|D|ea|LETLETS|not|GO|through.with|IT  k              6       13         4
+
+      6.1  ITITS|a|STU|pid.i*|D|ea|LET                             ?              4        8         4
+
+
+estimated schema
+----------
+meter: Trochaic
+feet: Complex (4-5-5-5-5-6-5)
+syllables: Complex (10-12-12-10-10-12-10)
+rhyme: Enclosed Rhyme (abba)

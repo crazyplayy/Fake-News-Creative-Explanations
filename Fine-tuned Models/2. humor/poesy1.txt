@@ -1,0 +1,20 @@
+  (#s,#l)  parse                                    rhyme      #feet    #syll    #parse
+---------  ---------------------------------------  -------  -------  -------  --------
+      1.1  at|LEAST|the|E|vi|DENCE*|is|THIN         a              4        8         3
+      1.2  a|VI|d.eo*|TA|ken.wit*|HOUT|link*        b              3        9         8
+      1.3  to|SOURCE|and|HENCE|a|FAKE               b              3        6         1
+      1.4  a|SORT|of|NUM|ber|ON*|a|THING            a              4        8         1
+
+      2.1  AND*|though.those|THINGS|have.been|USED  c              3        7         2
+      2.2  by|RUS|sia|NOT|u|KRAINE                  d              3        6         1
+      2.3  we|SEE|no*|REA|son|TO*|a|MEND            c              4        8         1
+      2.4  our|VIEW|which|IS|to|BLAME               d              3        6         1
+      2.5  those|WHO|do|WORSE.WEWE*|re|NOT|a|MISS   -              4        9         3
+
+
+estimated schema
+----------
+meter: Iambic
+feet: Complex (4-3-3-4-3-3-4-3-4)
+syllables: Complex (8-10-6-8-8-6-8-6-10)
+rhyme: Spenserian Stanza (ababbcbcc)

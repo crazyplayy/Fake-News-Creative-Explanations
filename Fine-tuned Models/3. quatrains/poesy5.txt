@@ -1,0 +1,24 @@
+  (#s,#l)  parse                                    rhyme      #feet    #syll    #parse
+---------  ---------------------------------------  -------  -------  -------  --------
+      1.1  NEAR.BY*|a|CHILD|is|WAI|ling             a              3        7         2
+      1.2  his|MOT|her|TRIES|to|SMILE               -              3        6         1
+      1.3  ITITS.ON*|ly|FLU|sheshes*|TEL|ling       a              3        7         2
+      1.4  HEHELL|be|O.KAY|i|GUESS                  -              3        6         1
+
+      2.1  NO|iim*|FINE|the|TOT|is|SAY|ing          d              4        8         1
+      2.2  I|just|FEEL.SICK*|to|DAY                 d              3        6         2
+      2.3  just|GIVE|me|CHIC|ken|SOUP.MA*|ma        -              3        8         3
+      2.4  IILL|be|O.KAY|i|GUESS                    -              3        6         1
+
+      3.1  SON|his|DAD|is|SAY|ing                   -              3        6         1
+      3.2  YOUYOUVE.GOT*|to|WEAR|that|MASK          -              3        6         2
+      3.3  THERETHERES.LOTS*|of|PEO|ple|OUT*|there  -              3        7         2
+      3.4  YOUYOURE.JUST*|a|GUESS|i|KNOW            -              3        6         3
+
+
+estimated schema
+----------
+meter: Iambic
+feet: Trimeter
+syllables: Complex (8-6-8-6)
+rhyme: Sestet B (ababcc)
